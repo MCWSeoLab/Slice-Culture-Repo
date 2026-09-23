@@ -1,0 +1,831 @@
+file,sheet,study_id,timepoint_label,drug,replicate,raw_value,control_mean,n_control_reps,pct_of_control,pct_inhibition
+Figures for submission/MTS_Liver_10.prism,[DATE] bx,PT-025,24h,FOLFIRINOX,1,0.87,0.6565,2,132.521,-32.521
+Figures for submission/MTS_Liver_10.prism,[DATE] bx,PT-025,24h,FOLFIRINOX,2,0.575,0.6565,2,87.586,12.414
+Figures for submission/MTS_Liver_10.prism,[DATE] bx,PT-025,24h,FOLFIRINOX,3,0.333,0.6565,2,50.724,49.276
+Figures for submission/MTS_Liver_10.prism,[DATE] bx,PT-025,24h,Gem/Pac,1,0.312,0.6565,2,47.525,52.475
+Figures for submission/MTS_Liver_10.prism,[DATE] bx,PT-025,24h,Gem/Pac,2,0.58,0.6565,2,88.347,11.653
+Figures for submission/MTS_Liver_10.prism,[DATE] bx,PT-025,24h,Gem/Pac,3,0.558,0.6565,2,84.996,15.004
+Figures for submission/MTS_Liver_10.prism,[DATE] bx,PT-025,24h,RMC-7977,1,0.15,0.6565,2,22.848,77.152
+Figures for submission/MTS_Liver_10.prism,[DATE] bx,PT-025,24h,RMC-7977,2,0.128,0.6565,2,19.497,80.503
+Figures for submission/MTS_Liver_10.prism,[DATE] bx,PT-025,24h,RMC-7977,3,0.157,0.6565,2,23.915,76.085
+Figures for submission/MTS_Liver_10.prism,[DATE] bx,PT-025,24h,Trametinib,1,0.571,0.6565,2,86.976,13.024
+Figures for submission/MTS_Liver_10.prism,[DATE] bx,PT-025,24h,Trametinib,2,0.429,0.6565,2,65.347,34.653
+Figures for submission/MTS_Liver_10.prism,[DATE] bx,PT-025,48h,FOLFIRINOX,1,0.22,0.446,2,49.327,50.673
+Figures for submission/MTS_Liver_10.prism,[DATE] bx,PT-025,48h,FOLFIRINOX,2,0.045,0.446,2,10.09,89.91
+Figures for submission/MTS_Liver_10.prism,[DATE] bx,PT-025,48h,FOLFIRINOX,3,0.026,0.446,2,5.83,94.17
+Figures for submission/MTS_Liver_10.prism,[DATE] bx,PT-025,48h,Gem/Pac,1,-0.012,0.446,2,-2.691,102.691
+Figures for submission/MTS_Liver_10.prism,[DATE] bx,PT-025,48h,Gem/Pac,2,0.112,0.446,2,25.112,74.888
+Figures for submission/MTS_Liver_10.prism,[DATE] bx,PT-025,48h,Gem/Pac,3,0.178,0.446,2,39.91,60.09
+Figures for submission/MTS_Liver_10.prism,[DATE] bx,PT-025,48h,RMC-7977,1,0.041,0.446,2,9.193,90.807
+Figures for submission/MTS_Liver_10.prism,[DATE] bx,PT-025,48h,RMC-7977,2,-0.009,0.446,2,-2.018,102.018
+Figures for submission/MTS_Liver_10.prism,[DATE] bx,PT-025,48h,RMC-7977,3,-0.005,0.446,2,-1.121,101.121
+Figures for submission/MTS_Liver_10.prism,[DATE] bx,PT-025,48h,Trametinib,1,0.058,0.446,2,13.004,86.996
+Figures for submission/MTS_Liver_10.prism,[DATE] bx,PT-025,48h,Trametinib,2,0.024,0.446,2,5.381,94.619
+Figures for submission/MTS_Liver_10.prism,[DATE] bx,PT-025,48h,Trametinib,3,-0.002,0.446,2,-0.448,100.448
+Figures for submission/MTS_Liver_10.prism,[DATE] bx,PT-024,24h,FOLFIRINOX,1,0.595,0.803,1,74.097,25.903
+Figures for submission/MTS_Liver_10.prism,[DATE] bx,PT-024,24h,Gem/Pac,1,0.074,0.803,1,9.215,90.785
+Figures for submission/MTS_Liver_10.prism,[DATE] bx,PT-024,24h,RMC-7977,1,0.624,0.803,1,77.709,22.291
+Figures for submission/MTS_Liver_10.prism,[DATE] bx,PT-024,24h,Trametinib,1,0.528,0.803,1,65.753,34.247
+Figures for submission/MTS_Liver_10.prism,[DATE] bx,PT-024,48h,FOLFIRINOX,1,0.289,0.476,1,60.714,39.286
+Figures for submission/MTS_Liver_10.prism,[DATE] bx,PT-024,48h,Gem/Pac,1,0.007,0.476,1,1.471,98.529
+Figures for submission/MTS_Liver_10.prism,[DATE] bx,PT-024,48h,RMC-7977,1,0.11,0.476,1,23.109,76.891
+Figures for submission/MTS_Liver_10.prism,[DATE] bx,PT-024,48h,Trametinib,1,0.169,0.476,1,35.504,64.496
+Figures for submission/MTS_Liver_bx_KRAS.prism,[DATE] bx - G12R,PT-025,24h,FOLFIRINOX,1,0.87,0.6565,2,132.521,-32.521
+Figures for submission/MTS_Liver_bx_KRAS.prism,[DATE] bx - G12R,PT-025,24h,FOLFIRINOX,2,0.575,0.6565,2,87.586,12.414
+Figures for submission/MTS_Liver_bx_KRAS.prism,[DATE] bx - G12R,PT-025,24h,FOLFIRINOX,3,0.333,0.6565,2,50.724,49.276
+Figures for submission/MTS_Liver_bx_KRAS.prism,[DATE] bx - G12R,PT-025,24h,Gem/Pac,1,0.312,0.6565,2,47.525,52.475
+Figures for submission/MTS_Liver_bx_KRAS.prism,[DATE] bx - G12R,PT-025,24h,Gem/Pac,2,0.58,0.6565,2,88.347,11.653
+Figures for submission/MTS_Liver_bx_KRAS.prism,[DATE] bx - G12R,PT-025,24h,Gem/Pac,3,0.558,0.6565,2,84.996,15.004
+Figures for submission/MTS_Liver_bx_KRAS.prism,[DATE] bx - G12R,PT-025,24h,RMC-7977,1,0.15,0.6565,2,22.848,77.152
+Figures for submission/MTS_Liver_bx_KRAS.prism,[DATE] bx - G12R,PT-025,24h,RMC-7977,2,0.128,0.6565,2,19.497,80.503
+Figures for submission/MTS_Liver_bx_KRAS.prism,[DATE] bx - G12R,PT-025,24h,RMC-7977,3,0.157,0.6565,2,23.915,76.085
+Figures for submission/MTS_Liver_bx_KRAS.prism,[DATE] bx - G12R,PT-025,24h,Trametinib,1,0.571,0.6565,2,86.976,13.024
+Figures for submission/MTS_Liver_bx_KRAS.prism,[DATE] bx - G12R,PT-025,24h,Trametinib,2,0.429,0.6565,2,65.347,34.653
+Figures for submission/MTS_Liver_bx_KRAS.prism,[DATE] bx - G12R,PT-025,48h,FOLFIRINOX,1,0.22,0.446,2,49.327,50.673
+Figures for submission/MTS_Liver_bx_KRAS.prism,[DATE] bx - G12R,PT-025,48h,FOLFIRINOX,2,0.045,0.446,2,10.09,89.91
+Figures for submission/MTS_Liver_bx_KRAS.prism,[DATE] bx - G12R,PT-025,48h,FOLFIRINOX,3,0.026,0.446,2,5.83,94.17
+Figures for submission/MTS_Liver_bx_KRAS.prism,[DATE] bx - G12R,PT-025,48h,Gem/Pac,1,-0.012,0.446,2,-2.691,102.691
+Figures for submission/MTS_Liver_bx_KRAS.prism,[DATE] bx - G12R,PT-025,48h,Gem/Pac,2,0.112,0.446,2,25.112,74.888
+Figures for submission/MTS_Liver_bx_KRAS.prism,[DATE] bx - G12R,PT-025,48h,Gem/Pac,3,0.178,0.446,2,39.91,60.09
+Figures for submission/MTS_Liver_bx_KRAS.prism,[DATE] bx - G12R,PT-025,48h,RMC-7977,1,0.041,0.446,2,9.193,90.807
+Figures for submission/MTS_Liver_bx_KRAS.prism,[DATE] bx - G12R,PT-025,48h,RMC-7977,2,-0.009,0.446,2,-2.018,102.018
+Figures for submission/MTS_Liver_bx_KRAS.prism,[DATE] bx - G12R,PT-025,48h,RMC-7977,3,-0.005,0.446,2,-1.121,101.121
+Figures for submission/MTS_Liver_bx_KRAS.prism,[DATE] bx - G12R,PT-025,48h,Trametinib,1,0.058,0.446,2,13.004,86.996
+Figures for submission/MTS_Liver_bx_KRAS.prism,[DATE] bx - G12R,PT-025,48h,Trametinib,2,0.024,0.446,2,5.381,94.619
+Figures for submission/MTS_Liver_bx_KRAS.prism,[DATE] bx - G12R,PT-025,48h,Trametinib,3,-0.002,0.446,2,-0.448,100.448
+Figures for submission/MTS_Liver_bx_KRAS.prism,[DATE] bx - G12R,PT-024,24h,FOLFIRINOX,1,0.595,0.803,1,74.097,25.903
+Figures for submission/MTS_Liver_bx_KRAS.prism,[DATE] bx - G12R,PT-024,24h,Gem/Pac,1,0.074,0.803,1,9.215,90.785
+Figures for submission/MTS_Liver_bx_KRAS.prism,[DATE] bx - G12R,PT-024,24h,RMC-7977,1,0.624,0.803,1,77.709,22.291
+Figures for submission/MTS_Liver_bx_KRAS.prism,[DATE] bx - G12R,PT-024,24h,Trametinib,1,0.528,0.803,1,65.753,34.247
+Figures for submission/MTS_Liver_bx_KRAS.prism,[DATE] bx - G12R,PT-024,48h,FOLFIRINOX,1,0.289,0.476,1,60.714,39.286
+Figures for submission/MTS_Liver_bx_KRAS.prism,[DATE] bx - G12R,PT-024,48h,Gem/Pac,1,0.007,0.476,1,1.471,98.529
+Figures for submission/MTS_Liver_bx_KRAS.prism,[DATE] bx - G12R,PT-024,48h,RMC-7977,1,0.11,0.476,1,23.109,76.891
+Figures for submission/MTS_Liver_bx_KRAS.prism,[DATE] bx - G12R,PT-024,48h,Trametinib,1,0.169,0.476,1,35.504,64.496
+Figures for submission/MTS_Liver_bx_KRAS.prism,[DATE] bx - G12V,PT-012,24h,FOLFIRINOX,1,0.2425,0.2225,2,108.989,-8.989
+Figures for submission/MTS_Liver_bx_KRAS.prism,[DATE] bx - G12V,PT-012,24h,FOLFIRINOX,2,0.2535,0.2225,2,113.933,-13.933
+Figures for submission/MTS_Liver_bx_KRAS.prism,[DATE] bx - G12V,PT-012,24h,Gem/Pac,1,0.1375,0.2225,2,61.798,38.202
+Figures for submission/MTS_Liver_bx_KRAS.prism,[DATE] bx - G12V,PT-012,24h,Gem/Pac,2,0.1905,0.2225,2,85.618,14.382
+Figures for submission/MTS_Liver_bx_KRAS.prism,[DATE] bx - G12V,PT-012,24h,RMC-7977,1,0.0905,0.2225,2,40.674,59.326
+Figures for submission/MTS_Liver_bx_KRAS.prism,[DATE] bx - G12V,PT-012,24h,RMC-7977,2,0.1465,0.2225,2,65.843,34.157
+Figures for submission/MTS_Liver_bx_KRAS.prism,[DATE] bx - G12D,PT-014,24h,FOLFIRINOX,1,1.8295,0.574,2,318.728,-218.728
+Figures for submission/MTS_Liver_bx_KRAS.prism,[DATE] bx - G12D,PT-014,24h,FOLFIRINOX,2,1.3205,0.574,2,230.052,-130.052
+Figures for submission/MTS_Liver_bx_KRAS.prism,[DATE] bx - G12D,PT-014,24h,Gem/Pac,1,1.0045,0.574,2,175.0,-75.0
+Figures for submission/MTS_Liver_bx_KRAS.prism,[DATE] bx - G12D,PT-014,24h,Gem/Pac,2,0.8175,0.574,2,142.422,-42.422
+Figures for submission/MTS_Liver_bx_KRAS.prism,[DATE] bx - G12D,PT-014,24h,RMC-7977,1,1.3055,0.574,2,227.439,-127.439
+Figures for submission/MTS_Liver_bx_KRAS.prism,[DATE] bx - G12D,PT-014,24h,RMC-7977,2,1.8005,0.574,2,313.676,-213.676
+Figures for submission/MTS_Liver_bx_KRAS.prism,[DATE] bx - G12D,PT-014,48h,FOLFIRINOX,1,1.867,1.513,2,123.397,-23.397
+Figures for submission/MTS_Liver_bx_KRAS.prism,[DATE] bx - G12D,PT-014,48h,FOLFIRINOX,2,1.637,1.513,2,108.196,-8.196
+Figures for submission/MTS_Liver_bx_KRAS.prism,[DATE] bx - G12D,PT-014,48h,Gem/Pac,1,1.781,1.513,2,117.713,-17.713
+Figures for submission/MTS_Liver_bx_KRAS.prism,[DATE] bx - G12D,PT-014,48h,Gem/Pac,2,1.038,1.513,2,68.605,31.395
+Figures for submission/MTS_Liver_bx_KRAS.prism,[DATE] bx - G12D,PT-014,48h,RMC-7977,1,1.543,1.513,2,101.983,-1.983
+Figures for submission/MTS_Liver_bx_KRAS.prism,[DATE] bx - G12D,PT-014,48h,RMC-7977,2,1.322,1.513,2,87.376,12.624
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,PDAC 2 IC50,,row1,STS 3.3uM,1,0.001617007,0.001398,1,115.638,-15.638
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,PDAC 2 IC50,,row2,STS 3.3uM,1,0.001054577,0.002492,1,42.315,57.685
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,PDAC 2 IC50,,row3,STS 3.3uM,1,0.000571425,0.002057,1,27.781,72.219
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,PDAC 2 IC50,,row4,STS 3.3uM,1,0.000349129,0.001402,1,24.906,75.094
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,PDAC 2 IC50,,row5,STS 3.3uM,1,0.000491942,0.001418,1,34.704,65.296
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,PDAC 2 IC50,,row6,STS 3.3uM,1,0.000362409,0.00182,1,19.917,80.083
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,PDAC 4 [TB] [DATE],PT-007|PT-008,row1,Folfirinox,1,0.000751563,0.002905,1,25.872,74.128
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,PDAC 4 [TB] [DATE],PT-007|PT-008,row2,Folfirinox,1,0.000739458,0.001949,1,37.947,62.053
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,PDAC 4 [TB] [DATE],PT-007|PT-008,row3,Folfirinox,1,0.000670733,0.003041,1,22.057,77.943
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,PDAC 4 [TB] [DATE],PT-007|PT-008,row4,Folfirinox,1,0.000647086,0.002622,1,24.68,75.32
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,PDAC 4 [TB] [DATE],PT-007|PT-008,row5,Folfirinox,1,0.000904762,0.001641,1,55.138,44.862
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,PDAC 4 [TB] [DATE],PT-007|PT-008,row6,Folfirinox,1,0.000840708,0.002747,1,30.609,69.391
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,PDAC 5 [TB] [DATE],PT-011,row1,Folfirinox,1,0.0012131,0.001302,2,93.157,6.843
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,PDAC 5 [TB] [DATE],PT-011,row1,Gem/nab,1,0.001281809,0.001302,2,98.433,1.567
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,PDAC 5 [TB] [DATE],PT-011,row1,RMC7977,1,0.000339317,0.001302,2,26.057,73.943
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,PDAC 5 [TB] [DATE],PT-011,row1,5uM STS,1,0.000773261,0.001302,2,59.381,40.619
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,PDAC 5 [TB] [DATE],PT-011,row2,Folfirinox,1,0.001248196,0.001202,2,103.86,-3.86
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,PDAC 5 [TB] [DATE],PT-011,row2,Gem/nab,1,0.001281805,0.001202,2,106.656,-6.656
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,PDAC 5 [TB] [DATE],PT-011,row2,RMC7977,1,0.000466826,0.001202,2,38.844,61.156
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,PDAC 5 [TB] [DATE],PT-011,row2,5uM STS,1,0.00084404,0.001202,2,70.231,29.769
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,PDAC 5 [TB] [DATE],PT-011,row3,Folfirinox,1,0.001841359,0.001414,2,130.238,-30.238
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,PDAC 5 [TB] [DATE],PT-011,row3,Gem/nab,1,0.00141018,0.001414,2,99.741,0.259
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,PDAC 5 [TB] [DATE],PT-011,row3,RMC7977,1,0.000254849,0.001414,2,18.025,81.975
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,PDAC 5 [TB] [DATE],PT-011,row3,5uM STS,1,0.000772344,0.001414,2,54.627,45.373
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,PDAC 5 [TB] [DATE],PT-011,row4,Folfirinox,1,0.001046116,0.001408,2,74.281,25.719
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,PDAC 5 [TB] [DATE],PT-011,row4,Gem/nab,1,0.000900392,0.001408,2,63.934,36.066
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,PDAC 5 [TB] [DATE],PT-011,row4,RMC7977,1,0.000222443,0.001408,2,15.795,84.205
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,PDAC 5 [TB] [DATE],PT-011,row4,5uM STS,1,0.00080465,0.001408,2,57.136,42.864
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx.3 STS [DATE],PT-005,row1,STS 3.3uM,1,0.000157342,0.001066,1,14.758,85.242
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx.3 STS [DATE],PT-005,row2,STS 3.3uM,1,9.54301e-05,0.000961,1,9.932,90.068
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx.3 STS [DATE],PT-005,row3,STS 3.3uM,1,0.000141016,0.000705,1,20.009,79.991
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx.3 STS [DATE],PT-005,row4,STS 3.3uM,1,0.000178596,0.000524,1,34.072,65.928
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx.3 STS [DATE],PT-005,row5,STS 3.3uM,1,0.000109536,0.001138,1,9.624,90.376
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx.3 STS [DATE],PT-005,row6,STS 3.3uM,1,0.000345926,0.000619,1,55.861,44.139
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx.4 Met 1 [DATE],PT-007|PT-008,row1,Folfirinox,1,0.001393464,0.000978,1,142.464,-42.464
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx.4 Met 1 [DATE],PT-007|PT-008,row2,Folfirinox,1,0.001081481,0.000996,1,108.625,-8.625
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx.4 Met 1 [DATE],PT-007|PT-008,row3,Folfirinox,1,0.001089258,0.001128,1,96.568,3.432
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx.4 Met 1 [DATE],PT-007|PT-008,row4,Folfirinox,1,0.000941223,0.000858,1,109.68,-9.68
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx.5 [DATE],,row1,Folfirinox,1,0.001301103,0.001447,1,89.921,10.079
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx.5 [DATE],,row1,RMC7977,1,0.000895677,0.001447,1,61.902,38.098
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx.5 [DATE],,row1,Gem/nab,1,0.001182291,0.001447,1,81.71,18.29
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx.5 [DATE],,row2,Folfirinox,1,0.001137901,0.001496,1,76.058,23.942
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx.5 [DATE],,row2,RMC7977,1,0.000864448,0.001496,1,57.78,42.22
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx.5 [DATE],,row2,Gem/nab,1,0.000928193,0.001496,1,62.041,37.959
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx.5 [DATE],,row3,Folfirinox,1,0.001586727,0.001937,1,81.919,18.081
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx.5 [DATE],,row3,RMC7977,1,0.000833742,0.001937,1,43.044,56.956
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx.5 [DATE],,row3,Gem/nab,1,0.000919026,0.001937,1,47.447,52.553
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx.5 [DATE],,row4,Folfirinox,1,0.0015082,0.001287,1,117.198,-17.198
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx.5 [DATE],,row4,Gem/nab,1,0.000685998,0.001287,1,53.307,46.693
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx.6 Met 2 [DATE],PT-014,row1,No DMSO,1,0.000723344,0.001782,1,40.602,59.398
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx.6 Met 2 [DATE],PT-014,row1,Folfirinox,1,0.002508564,0.001782,1,140.808,-40.808
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx.6 Met 2 [DATE],PT-014,row1,Gem/nab,1,0.001811714,0.001782,1,101.693,-1.693
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx.6 Met 2 [DATE],PT-014,row1,RMC7977,1,0.001836827,0.001782,1,103.103,-3.103
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx.6 Met 2 [DATE],PT-014,row2,No DMSO,1,0.001160327,0.001101,1,105.379,-5.379
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx.6 Met 2 [DATE],PT-014,row2,Folfirinox,1,0.002510517,0.001101,1,228.001,-128.001
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx.6 Met 2 [DATE],PT-014,row2,Gem/nab,1,0.001716141,0.001101,1,155.857,-55.857
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx.6 Met 2 [DATE],PT-014,row2,RMC7977,1,0.001870164,0.001101,1,169.845,-69.845
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx.6 Met 2 [DATE],PT-014,row3,No DMSO,1,0.001347843,0.001202,1,112.101,-12.101
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx.6 Met 2 [DATE],PT-014,row3,Folfirinox,1,0.002535863,0.001202,1,210.91,-110.91
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx.6 Met 2 [DATE],PT-014,row3,Gem/nab,1,0.001164348,0.001202,1,96.84,3.16
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx.6 Met 2 [DATE],PT-014,row3,RMC7977,1,0.002283882,0.001202,1,189.953,-89.953
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx.6 Met 2 [DATE],PT-014,row4,No DMSO,1,0.000830189,0.001697,1,48.922,51.078
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx.6 Met 2 [DATE],PT-014,row4,Folfirinox,1,0.002754197,0.001697,1,162.301,-62.301
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx.6 Met 2 [DATE],PT-014,row4,Gem/nab,1,0.001178878,0.001697,1,69.47,30.53
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx.6 Met 2 [DATE],PT-014,row4,RMC7977,1,0.002173158,0.001697,1,128.061,-28.061
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx.6 Met 2 [DATE],PT-014,row5,No DMSO,1,0.000661317,0.001798,1,36.776,63.224
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx.6 Met 2 [DATE],PT-014,row5,Folfirinox,1,0.002790339,0.001798,1,155.173,-55.173
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx.6 Met 2 [DATE],PT-014,row5,Gem/nab,1,0.001746399,0.001798,1,97.119,2.881
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx.6 Met 2 [DATE],PT-014,row5,RMC7977,1,0.002492919,0.001798,1,138.633,-38.633
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx.6 Met 2 [DATE],PT-014,row6,No DMSO,1,0.000830698,0.001869,1,44.454,55.546
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx.6 Met 2 [DATE],PT-014,row6,Folfirinox,1,0.00259938,0.001869,1,139.103,-39.103
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx.6 Met 2 [DATE],PT-014,row6,Gem/nab,1,0.001955651,0.001869,1,104.654,-4.654
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx.6 Met 2 [DATE],PT-014,row6,RMC7977,1,0.002044438,0.001869,1,109.406,-9.406
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx.7 [DATE],PT-015,row1,Folfirinox,1,0.000876877,0.001582,1,55.446,44.554
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx.7 [DATE],PT-015,row1,Trametinib,1,0.001290738,0.001582,1,81.615,18.385
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx.7 [DATE],PT-015,row1,Vemurafenib,1,0.001498431,0.001582,1,94.747,5.253
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx.7 [DATE],PT-015,row2,Folfirinox,1,0.000730672,0.001462,1,49.967,50.033
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx.7 [DATE],PT-015,row2,Trametinib,1,0.000882092,0.001462,1,60.322,39.678
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx.7 [DATE],PT-015,row2,Vemurafenib,1,0.001815062,0.001462,1,124.124,-24.124
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx.7 [DATE],PT-015,row3,Folfirinox,1,0.000645135,0.00151,1,42.737,57.263
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx.7 [DATE],PT-015,row3,Trametinib,1,0.000905722,0.00151,1,60.0,40.0
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx.7 [DATE],PT-015,row3,Vemurafenib,1,0.001624228,0.00151,1,107.598,-7.598
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx.7 [DATE],PT-015,row4,Folfirinox,1,0.000862656,0.001521,1,56.718,43.282
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx.7 [DATE],PT-015,row4,Trametinib,1,0.000957673,0.001521,1,62.965,37.035
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx.7 [DATE],PT-015,row4,Vemurafenib,1,0.001484581,0.001521,1,97.608,2.392
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,"Liver Bx,9 [DATE]",PT-023,row1,Folfirinox,1,0.002770347,0.002252,1,122.994,-22.994
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,"Liver Bx,9 [DATE]",PT-023,row1,Gem/nab,1,0.002624384,0.002252,1,116.514,-16.514
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,"Liver Bx,9 [DATE]",PT-023,row1,Trametinib,1,0.001576437,0.002252,1,69.988,30.012
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,"Liver Bx,9 [DATE]",PT-023,row2,Folfirinox,1,0.002571904,0.001531,1,167.954,-67.954
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,"Liver Bx,9 [DATE]",PT-023,row2,Gem/nab,1,0.002494044,0.001531,1,162.869,-62.869
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,"Liver Bx,9 [DATE]",PT-023,row2,Trametinib,1,0.000359785,0.001531,1,23.495,76.505
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,"Liver Bx,9 [DATE]",PT-023,row3,Folfirinox,1,0.003073544,0.002076,1,148.016,-48.016
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,"Liver Bx,9 [DATE]",PT-023,row3,Gem/nab,1,0.002838505,0.002076,1,136.697,-36.697
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,"Liver Bx,9 [DATE]",PT-023,row3,Trametinib,1,0.00036222,0.002076,1,17.444,82.556
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,"Liver Bx,9 [DATE]",PT-023,row4,Folfirinox,1,0.002875459,0.001855,1,154.974,-54.974
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,"Liver Bx,9 [DATE]",PT-023,row4,Gem/nab,1,0.002431308,0.001855,1,131.037,-31.037
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,"Liver Bx,9 [DATE]",PT-023,row4,Trametinib,1,0.001760619,0.001855,1,94.889,5.111
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,"Liver Bx,9 [DATE]",PT-023,row5,Folfirinox,1,0.00265499,0.002141,1,124.031,-24.031
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,"Liver Bx,9 [DATE]",PT-023,row5,Gem/nab,1,0.002818437,0.002141,1,131.667,-31.667
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,"Liver Bx,9 [DATE]",PT-023,row5,Trametinib,1,0.001030388,0.002141,1,48.136,51.864
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,"Liver Bx,9 [DATE]",PT-023,row6,Folfirinox,1,0.002798572,0.00174,1,160.864,-60.864
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,"Liver Bx,9 [DATE]",PT-023,row6,Gem/nab,1,0.00223637,0.00174,1,128.548,-28.548
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,"Liver Bx,9 [DATE]",PT-023,row6,Trametinib,1,0.000362384,0.00174,1,20.83,79.17
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx. [DATE],PT-024,row1,Folfirinox,1,0.000484181,0.000415,1,116.71,-16.71
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx. [DATE],PT-024,row1,Gem/nab,1,0.00012546,0.000415,1,30.242,69.758
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx. [DATE],PT-024,row1,RMC7977,1,0.000179993,0.000415,1,43.387,56.613
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx. [DATE],PT-024,row1,Trametinib,1,0.000394786,0.000415,1,95.162,4.838
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx. [DATE],PT-024,row2,Folfirinox,1,0.000482298,0.000514,1,93.798,6.202
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx. [DATE],PT-024,row2,Gem/nab,1,6.83228e-05,0.000514,1,13.288,86.712
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx. [DATE],PT-024,row2,RMC7977,1,0.000192934,0.000514,1,37.522,62.478
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx. [DATE],PT-024,row2,Trametinib,1,0.000389921,0.000514,1,75.832,24.168
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx. [DATE],PT-024,row3,Folfirinox,1,0.000814102,0.000861,1,94.556,5.444
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx. [DATE],PT-024,row3,Gem/nab,1,0.000281463,0.000861,1,32.691,67.309
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx. [DATE],PT-024,row3,RMC7977,1,9.59719e-05,0.000861,1,11.147,88.853
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx. [DATE],PT-024,row3,Trametinib,1,0.000288063,0.000861,1,33.458,66.542
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx. [DATE],PT-024,row4,Folfirinox,1,0.000451331,0.000526,1,85.844,14.156
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx. [DATE],PT-024,row4,Gem/nab,1,0.000138117,0.000526,1,26.27,73.73
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx. [DATE],PT-024,row4,RMC7977,1,5.41709e-05,0.000526,1,10.303,89.697
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx. [DATE],PT-024,row4,Trametinib,1,0.000318114,0.000526,1,60.506,39.494
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx. [DATE],PT-024,row5,Folfirinox,1,0.000767742,0.000875,1,87.698,12.302
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx. [DATE],PT-024,row5,Gem/nab,1,0.000306372,0.000875,1,34.996,65.004
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx. [DATE],PT-024,row5,RMC7977,1,0.000244955,0.000875,1,27.981,72.019
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx. [DATE],PT-024,row5,Trametinib,1,0.000294977,0.000875,1,33.695,66.305
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx. [DATE],PT-024,row6,Folfirinox,1,0.000534516,0.000631,1,84.687,15.313
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx. [DATE],PT-024,row6,Gem/nab,1,0.000654199,0.000631,1,103.649,-3.649
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx. [DATE],PT-024,row6,RMC7977,1,0.000139792,0.000631,1,22.148,77.852
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx. [DATE],PT-024,row6,Trametinib,1,0.000408903,0.000631,1,64.785,35.215
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx. [DATE],PT-025,row1,Folfirinox,1,0.000503568,0.001518,1,33.178,66.822
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx. [DATE],PT-025,row1,Gem/nab,1,0.000547317,0.001518,1,36.061,63.939
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx. [DATE],PT-025,row1,RMC7977,1,0.000113855,0.001518,1,7.501,92.499
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx. [DATE],PT-025,row1,Trametinib,1,0.000657176,0.001518,1,43.299,56.701
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx. [DATE],PT-025,row2,Folfirinox,1,0.000708608,0.00137,1,51.711,48.289
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx. [DATE],PT-025,row2,Gem/nab,1,5.6985e-05,0.00137,1,4.158,95.842
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx. [DATE],PT-025,row2,RMC7977,1,0.00023757,0.00137,1,17.337,82.663
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx. [DATE],PT-025,row2,Trametinib,1,8.34703e-05,0.00137,1,6.091,93.909
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx. [DATE],PT-025,row3,Folfirinox,1,0.001115228,0.001348,1,82.758,17.242
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx. [DATE],PT-025,row3,Gem/nab,1,0.000573276,0.001348,1,42.541,57.459
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx. [DATE],PT-025,row3,RMC7977,1,0.000167961,0.001348,1,12.464,87.536
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx. [DATE],PT-025,row3,Trametinib,1,0.000460092,0.001348,1,34.142,65.858
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx. [DATE],PT-025,row4,Folfirinox,1,0.000744154,0.001335,1,55.758,44.242
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx. [DATE],PT-025,row4,Gem/nab,1,0.001071476,0.001335,1,80.284,19.716
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx. [DATE],PT-025,row4,RMC7977,1,0.000154841,0.001335,1,11.602,88.398
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx. [DATE],PT-025,row4,Trametinib,1,0.00071065,0.001335,1,53.248,46.752
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx. [DATE],PT-025,row5,Folfirinox,1,0.000566773,0.001406,1,40.324,59.676
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx. [DATE],PT-025,row5,Gem/nab,1,0.000467254,0.001406,1,33.243,66.757
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx. [DATE],PT-025,row5,RMC7977,1,0.00017465,0.001406,1,12.426,87.574
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx. [DATE],PT-025,row5,Trametinib,1,0.000178759,0.001406,1,12.718,87.282
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx. [DATE],PT-025,row6,Folfirinox,1,0.000699669,0.001209,1,57.862,42.138
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx. [DATE],PT-025,row6,Gem/nab,1,0.000552844,0.001209,1,45.72,54.28
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx. [DATE],PT-025,row6,RMC7977,1,0.000145794,0.001209,1,12.057,87.943
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,Liver Bx. [DATE],PT-025,row6,Trametinib,1,0.000728179,0.001209,1,60.22,39.78
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,umbilicus [DATE],PT-013,row1,Folfirinox,1,0.001748739,0.001613,1,108.399,-8.399
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,umbilicus [DATE],PT-013,row1,Gem/nab,1,0.002502479,0.001613,1,155.121,-55.121
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,umbilicus [DATE],PT-013,row1,RMC7977,1,0.001650805,0.001613,1,102.328,-2.328
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,umbilicus [DATE],PT-013,row1,STS,1,0.001999008,0.001613,1,123.912,-23.912
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,umbilicus [DATE],PT-013,row2,Folfirinox,1,0.001659524,0.002024,1,81.977,18.023
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,umbilicus [DATE],PT-013,row2,Gem/nab,1,0.002606983,0.002024,1,128.78,-28.78
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,umbilicus [DATE],PT-013,row2,RMC7977,1,0.00171737,0.002024,1,84.835,15.165
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,umbilicus [DATE],PT-013,row2,STS,1,0.001831746,0.002024,1,90.485,9.515
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,umbilicus [DATE],PT-013,row3,Folfirinox,1,0.002146483,0.001409,1,152.338,-52.338
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,umbilicus [DATE],PT-013,row3,Gem/nab,1,0.002219056,0.001409,1,157.488,-57.488
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,umbilicus [DATE],PT-013,row3,RMC7977,1,0.001343397,0.001409,1,95.342,4.658
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,umbilicus [DATE],PT-013,row3,STS,1,0.002051915,0.001409,1,145.626,-45.626
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,umbilicus [DATE],PT-013,row4,Folfirinox,1,0.001390363,0.002108,1,65.968,34.032
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,umbilicus [DATE],PT-013,row4,Gem/nab,1,0.001335981,0.002108,1,63.387,36.613
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,umbilicus [DATE],PT-013,row4,RMC7977,1,0.001177764,0.002108,1,55.881,44.119
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,umbilicus [DATE],PT-013,row4,STS,1,0.001910873,0.002108,1,90.664,9.336
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,umbilicus [DATE],PT-013,row5,Folfirinox,1,0.001434417,0.001795,1,79.905,20.095
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,umbilicus [DATE],PT-013,row5,Gem/nab,1,0.00159088,0.001795,1,88.621,11.379
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,umbilicus [DATE],PT-013,row5,RMC7977,1,0.001695757,0.001795,1,94.464,5.536
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,umbilicus [DATE],PT-013,row5,STS,1,0.000960231,0.001795,1,53.49,46.51
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,umbilicus [DATE],PT-013,row6,Folfirinox,1,0.001625185,0.002543,1,63.916,36.084
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,umbilicus [DATE],PT-013,row6,Gem/nab,1,0.001336005,0.002543,1,52.543,47.457
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,umbilicus [DATE],PT-013,row6,RMC7977,1,0.001580217,0.002543,1,62.147,37.853
+Manuscript Drafts with Results/GraphPad Files/Core Biopsy Nuclear Density.pzfx,umbilicus [DATE],PT-013,row6,STS,1,0.001155713,0.002543,1,45.452,54.548
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver bx. [DATE] Cleaved Caspase,PT-024,row1,Folfirinox,1,9.3,17.9,1,51.955,48.045
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver bx. [DATE] Cleaved Caspase,PT-024,row1,Gem/nab,1,25.8,17.9,1,144.134,-44.134
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver bx. [DATE] Cleaved Caspase,PT-024,row1,RMC7977,1,42.1,17.9,1,235.196,-135.196
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver bx. [DATE] Cleaved Caspase,PT-024,row1,Trametinib,1,19.0,17.9,1,106.145,-6.145
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver bx. [DATE] Cleaved Caspase,PT-024,row2,Folfirinox,1,10.1,18.6,1,54.301,45.699
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver bx. [DATE] Cleaved Caspase,PT-024,row2,Gem/nab,1,45.1,18.6,1,242.473,-142.473
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver bx. [DATE] Cleaved Caspase,PT-024,row2,RMC7977,1,25.9,18.6,1,139.247,-39.247
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver bx. [DATE] Cleaved Caspase,PT-024,row2,Trametinib,1,23.0,18.6,1,123.656,-23.656
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver bx. [DATE] Cleaved Caspase,PT-024,row3,Folfirinox,1,11.4,29.2,1,39.041,60.959
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver bx. [DATE] Cleaved Caspase,PT-024,row3,Gem/nab,1,34.5,29.2,1,118.151,-18.151
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver bx. [DATE] Cleaved Caspase,PT-024,row3,RMC7977,1,31.0,29.2,1,106.164,-6.164
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver bx. [DATE] Cleaved Caspase,PT-024,row3,Trametinib,1,16.5,29.2,1,56.507,43.493
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver bx. [DATE] Cleaved Caspase,PT-024,row4,Folfirinox,1,12.5,17.8,1,70.225,29.775
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver bx. [DATE] Cleaved Caspase,PT-024,row4,Gem/nab,1,45.5,17.8,1,255.618,-155.618
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver bx. [DATE] Cleaved Caspase,PT-024,row4,RMC7977,1,37.4,17.8,1,210.112,-110.112
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver bx. [DATE] Cleaved Caspase,PT-024,row4,Trametinib,1,22.1,17.8,1,124.157,-24.157
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver bx. [DATE] Ki67,PT-024,row1,Folfirinox,1,12.8,28.56,1,44.818,55.182
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver bx. [DATE] Ki67,PT-024,row1,Gem/nab,1,1.445,28.56,1,5.06,94.94
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver bx. [DATE] Ki67,PT-024,row1,RMC7977,1,9.992,28.56,1,34.986,65.014
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver bx. [DATE] Ki67,PT-024,row1,Trametinib,1,4.196,28.56,1,14.692,85.308
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver bx. [DATE] Ki67,PT-024,row2,Folfirinox,1,13.43,38.3,1,35.065,64.935
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver bx. [DATE] Ki67,PT-024,row2,Gem/nab,1,1.15,38.3,1,3.003,96.997
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver bx. [DATE] Ki67,PT-024,row2,RMC7977,1,19.88,38.3,1,51.906,48.094
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver bx. [DATE] Ki67,PT-024,row2,Trametinib,1,6.478,38.3,1,16.914,83.086
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver bx. [DATE] Ki67,PT-024,row3,Folfirinox,1,9.704,45.8503,1,21.165,78.835
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver bx. [DATE] Ki67,PT-024,row3,Gem/nab,1,1.8704,45.8503,1,4.079,95.921
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver bx. [DATE] Ki67,PT-024,row3,RMC7977,1,7.5461,45.8503,1,16.458,83.542
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver bx. [DATE] Ki67,PT-024,row3,Trametinib,1,5.951,45.8503,1,12.979,87.021
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver bx. [DATE] Ki67,PT-024,row4,Folfirinox,1,12.6,33.2377,1,37.909,62.091
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver bx. [DATE] Ki67,PT-024,row4,Gem/nab,1,2.2193,33.2377,1,6.677,93.323
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver bx. [DATE] Ki67,PT-024,row4,RMC7977,1,21.3029,33.2377,1,64.093,35.907
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver bx. [DATE] Ki67,PT-024,row4,Trametinib,1,1.443,33.2377,1,4.341,95.659
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver bx. [DATE] CD45,PT-024,row1,Folfirinox,1,20.18,14.15,1,142.615,-42.615
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver bx. [DATE] CD45,PT-024,row1,Gem/nab,1,25.44,14.15,1,179.788,-79.788
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver bx. [DATE] CD45,PT-024,row1,RMC7977,1,9.214,14.15,1,65.117,34.883
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver bx. [DATE] CD45,PT-024,row1,Trametinib,1,28.05,14.15,1,198.233,-98.233
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver bx. [DATE] CD45,PT-024,row2,Folfirinox,1,18.59,11.87,1,156.613,-56.613
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver bx. [DATE] CD45,PT-024,row2,Gem/nab,1,27.46,11.87,1,231.34,-131.34
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver bx. [DATE] CD45,PT-024,row2,RMC7977,1,11.14,11.87,1,93.85,6.15
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver bx. [DATE] CD45,PT-024,row2,Trametinib,1,39.79,11.87,1,335.215,-235.215
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver bx. [DATE] CD45,PT-024,row3,Folfirinox,1,23.04,32.63,1,70.61,29.39
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver bx. [DATE] CD45,PT-024,row3,Gem/nab,1,23.56,32.63,1,72.203,27.797
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver bx. [DATE] CD45,PT-024,row3,RMC7977,1,18.98,32.63,1,58.167,41.833
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver bx. [DATE] CD45,PT-024,row3,Trametinib,1,29.45,32.63,1,90.254,9.746
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver bx. [DATE] CD45,PT-024,row4,Folfirinox,1,24.22,18.99,1,127.541,-27.541
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver bx. [DATE] CD45,PT-024,row4,Gem/nab,1,27.92,18.99,1,147.025,-47.025
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver bx. [DATE] CD45,PT-024,row4,RMC7977,1,8.4969,18.99,1,44.744,55.256
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver bx. [DATE] CD45,PT-024,row4,Trametinib,1,26.33,18.99,1,138.652,-38.652
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver bx. [DATE] EpCam,PT-024,row1,Folfirinox,1,55.61,61.84,1,89.926,10.074
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver bx. [DATE] EpCam,PT-024,row1,Gem/nab,1,46.31,61.84,1,74.887,25.113
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver bx. [DATE] EpCam,PT-024,row1,RMC7977,1,50.94,61.84,1,82.374,17.626
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver bx. [DATE] EpCam,PT-024,row1,Trametinib,1,56.46,61.84,1,91.3,8.7
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver bx. [DATE] EpCam,PT-024,row2,Folfirinox,1,63.93,64.95,1,98.43,1.57
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver bx. [DATE] EpCam,PT-024,row2,Gem/nab,1,54.3,64.95,1,83.603,16.397
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver bx. [DATE] EpCam,PT-024,row2,RMC7977,1,53.37,64.95,1,82.171,17.829
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver bx. [DATE] EpCam,PT-024,row2,Trametinib,1,51.23,64.95,1,78.876,21.124
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver bx. [DATE] EpCam,PT-024,row3,Folfirinox,1,54.77,68.3836,1,80.092,19.908
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver bx. [DATE] EpCam,PT-024,row3,Gem/nab,1,38.83,68.3836,1,56.783,43.217
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver bx. [DATE] EpCam,PT-024,row3,RMC7977,1,50.38,68.3836,1,73.673,26.327
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver bx. [DATE] EpCam,PT-024,row3,Trametinib,1,55.3,68.3836,1,80.867,19.133
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver bx. [DATE] EpCam,PT-024,row4,Folfirinox,1,47.69,73.408,1,64.966,35.034
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver bx. [DATE] EpCam,PT-024,row4,Gem/nab,1,60.43,73.408,1,82.321,17.679
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver bx. [DATE] EpCam,PT-024,row4,RMC7977,1,63.9512,73.408,1,87.117,12.883
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver bx. [DATE] EpCam,PT-024,row4,Trametinib,1,43.8751,73.408,1,59.769,40.231
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver Bx. [DATE] Cleaved Caspase,PT-025,row1,Folfirinox,1,44.1,8.4,1,525.0,-425.0
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver Bx. [DATE] Cleaved Caspase,PT-025,row1,Gem/nab,1,27.7,8.4,1,329.762,-229.762
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver Bx. [DATE] Cleaved Caspase,PT-025,row1,RMC7977,1,66.5,8.4,1,791.667,-691.667
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver Bx. [DATE] Cleaved Caspase,PT-025,row1,Trametinib,1,32.1,8.4,1,382.143,-282.143
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver Bx. [DATE] Cleaved Caspase,PT-025,row2,Folfirinox,1,32.7,11.4,1,286.842,-186.842
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver Bx. [DATE] Cleaved Caspase,PT-025,row2,Gem/nab,1,23.4,11.4,1,205.263,-105.263
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver Bx. [DATE] Cleaved Caspase,PT-025,row2,RMC7977,1,47.4,11.4,1,415.789,-315.789
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver Bx. [DATE] Cleaved Caspase,PT-025,row2,Trametinib,1,29.8,11.4,1,261.404,-161.404
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver Bx. [DATE] Cleaved Caspase,PT-025,row3,Folfirinox,1,51.8,13.6,1,380.882,-280.882
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver Bx. [DATE] Cleaved Caspase,PT-025,row3,Gem/nab,1,58.8,13.6,1,432.353,-332.353
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver Bx. [DATE] Cleaved Caspase,PT-025,row3,RMC7977,1,26.9,13.6,1,197.794,-97.794
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver Bx. [DATE] Cleaved Caspase,PT-025,row3,Trametinib,1,24.4,13.6,1,179.412,-79.412
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver Bx. [DATE] Cleaved Caspase,PT-025,row4,Folfirinox,1,40.9,19.8,1,206.566,-106.566
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver Bx. [DATE] Cleaved Caspase,PT-025,row4,Gem/nab,1,20.3,19.8,1,102.525,-2.525
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver Bx. [DATE] Cleaved Caspase,PT-025,row4,RMC7977,1,46.4,19.8,1,234.343,-134.343
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver Bx. [DATE] Cleaved Caspase,PT-025,row4,Trametinib,1,29.7,19.8,1,150.0,-50.0
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver Bx. [DATE] Ki67,PT-025,row1,Folfirinox,1,5.2,1.037,1,501.446,-401.446
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver Bx. [DATE] Ki67,PT-025,row1,Gem/nab,1,3.601,1.037,1,347.252,-247.252
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver Bx. [DATE] Ki67,PT-025,row1,RMC7977,1,0.7817,1.037,1,75.381,24.619
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver Bx. [DATE] Ki67,PT-025,row1,Trametinib,1,1.708,1.037,1,164.706,-64.706
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver Bx. [DATE] Ki67,PT-025,row2,Folfirinox,1,6.435,3.625,1,177.517,-77.517
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver Bx. [DATE] Ki67,PT-025,row2,Gem/nab,1,3.085,3.625,1,85.103,14.897
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver Bx. [DATE] Ki67,PT-025,row2,RMC7977,1,1.581,3.625,1,43.614,56.386
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver Bx. [DATE] Ki67,PT-025,row2,Trametinib,1,0.4269,3.625,1,11.777,88.223
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver Bx. [DATE] Ki67,PT-025,row3,Folfirinox,1,15.07,6.152,1,244.961,-144.961
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver Bx. [DATE] Ki67,PT-025,row3,Gem/nab,1,3.787,6.152,1,61.557,38.443
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver Bx. [DATE] Ki67,PT-025,row3,RMC7977,1,0.1383,6.152,1,2.248,97.752
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver Bx. [DATE] Ki67,PT-025,row3,Trametinib,1,2.358,6.152,1,38.329,61.671
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver Bx. [DATE] Ki67,PT-025,row4,Folfirinox,1,15.59,2.43,1,641.564,-541.564
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver Bx. [DATE] Ki67,PT-025,row4,Gem/nab,1,5.37,2.43,1,220.988,-120.988
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver Bx. [DATE] Ki67,PT-025,row4,RMC7977,1,1.551,2.43,1,63.827,36.173
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver Bx. [DATE] Ki67,PT-025,row4,Trametinib,1,2.691,2.43,1,110.741,-10.741
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver Bx. [DATE] CD45,PT-025,row1,Folfirinox,1,29.97,25.42,1,117.899,-17.899
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver Bx. [DATE] CD45,PT-025,row1,Gem/nab,1,20.5,25.42,1,80.645,19.355
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver Bx. [DATE] CD45,PT-025,row1,RMC7977,1,34.45,25.42,1,135.523,-35.523
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver Bx. [DATE] CD45,PT-025,row1,Trametinib,1,36.96,25.42,1,145.397,-45.397
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver Bx. [DATE] CD45,PT-025,row2,Folfirinox,1,33.94,14.26,1,238.008,-138.008
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver Bx. [DATE] CD45,PT-025,row2,Gem/nab,1,17.63,14.26,1,123.633,-23.633
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver Bx. [DATE] CD45,PT-025,row2,RMC7977,1,32.1,14.26,1,225.105,-125.105
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver Bx. [DATE] CD45,PT-025,row2,Trametinib,1,35.9,14.26,1,251.753,-151.753
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver Bx. [DATE] CD45,PT-025,row3,Folfirinox,1,35.64,19.49,1,182.863,-82.863
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver Bx. [DATE] CD45,PT-025,row3,Gem/nab,1,17.75,19.49,1,91.072,8.928
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver Bx. [DATE] CD45,PT-025,row3,RMC7977,1,25.91,19.49,1,132.94,-32.94
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver Bx. [DATE] CD45,PT-025,row3,Trametinib,1,30.53,19.49,1,156.644,-56.644
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver Bx. [DATE] CD45,PT-025,row4,Folfirinox,1,36.26,24.47,1,148.181,-48.181
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver Bx. [DATE] CD45,PT-025,row4,Gem/nab,1,11.24,24.47,1,45.934,54.066
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver Bx. [DATE] CD45,PT-025,row4,RMC7977,1,32.42,24.47,1,132.489,-32.489
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver Bx. [DATE] CD45,PT-025,row4,Trametinib,1,45.62,24.47,1,186.432,-86.432
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver Bx. [DATE] EpCam,PT-025,row1,Folfirinox,1,17.52,27.95,1,62.683,37.317
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver Bx. [DATE] EpCam,PT-025,row1,Gem/nab,1,15.87,27.95,1,56.78,43.22
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver Bx. [DATE] EpCam,PT-025,row1,RMC7977,1,26.34,27.95,1,94.24,5.76
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver Bx. [DATE] EpCam,PT-025,row1,Trametinib,1,24.94,27.95,1,89.231,10.769
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver Bx. [DATE] EpCam,PT-025,row2,Folfirinox,1,25.1,29.4,1,85.374,14.626
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver Bx. [DATE] EpCam,PT-025,row2,Gem/nab,1,16.98,29.4,1,57.755,42.245
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver Bx. [DATE] EpCam,PT-025,row2,RMC7977,1,13.24,29.4,1,45.034,54.966
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver Bx. [DATE] EpCam,PT-025,row2,Trametinib,1,28.69,29.4,1,97.585,2.415
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver Bx. [DATE] EpCam,PT-025,row3,Folfirinox,1,24.74,25.7,1,96.265,3.735
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver Bx. [DATE] EpCam,PT-025,row3,Gem/nab,1,12.9,25.7,1,50.195,49.805
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver Bx. [DATE] EpCam,PT-025,row3,RMC7977,1,24.3,25.7,1,94.553,5.447
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver Bx. [DATE] EpCam,PT-025,row3,Trametinib,1,26.68,25.7,1,103.813,-3.813
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver Bx. [DATE] EpCam,PT-025,row4,Folfirinox,1,23.94,29.57,1,80.96,19.04
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver Bx. [DATE] EpCam,PT-025,row4,Gem/nab,1,16.34,29.57,1,55.259,44.741
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver Bx. [DATE] EpCam,PT-025,row4,RMC7977,1,23.76,29.57,1,80.352,19.648
+Manuscript Drafts with Results/GraphPad Files/Liver Bx. [DATE] IHC.pzfx,Liver Bx. [DATE] EpCam,PT-025,row4,Trametinib,1,27.63,29.57,1,93.439,6.561
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.3 IC50 IHC.pzfx,Liver Bx.3 IC50 Cleaved Caspase,,row1,STS 3.3uM,1,8.22,0.995,1,826.131,-726.131
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.3 IC50 IHC.pzfx,Liver Bx.3 IC50 Cleaved Caspase,,row2,STS 3.3uM,1,5.85,0.4312,1,1356.679,-1256.679
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.3 IC50 IHC.pzfx,Liver Bx.3 IC50 Cleaved Caspase,,row3,STS 3.3uM,1,9.26,0.8953,1,1034.29,-934.29
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.3 IC50 IHC.pzfx,Liver Bx.3 IC50 Cleaved Caspase,,row4,STS 3.3uM,1,15.84,1.108,1,1429.603,-1329.603
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.3 IC50 IHC.pzfx,Liver Bx.3 IC50 Ki67,,row1,STS 3.3uM,1,0.9185,6.7502,1,13.607,86.393
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.3 IC50 IHC.pzfx,Liver Bx.3 IC50 Ki67,,row2,STS 3.3uM,1,0.0313,4.186,1,0.748,99.252
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.3 IC50 IHC.pzfx,Liver Bx.3 IC50 Ki67,,row3,STS 3.3uM,1,0.3255,7.14,1,4.559,95.441
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.3 IC50 IHC.pzfx,Liver Bx.3 IC50 Ki67,,row4,STS 3.3uM,1,0.3108,6.308,1,4.927,95.073
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.3 IC50 IHC.pzfx,Liver Bx.3 IC50 CD45,,row1,STS 3.3uM,1,13.94,27.856,1,50.043,49.957
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.3 IC50 IHC.pzfx,Liver Bx.3 IC50 CD45,,row2,STS 3.3uM,1,8.76,11.6305,1,75.319,24.681
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.3 IC50 IHC.pzfx,Liver Bx.3 IC50 CD45,,row3,STS 3.3uM,1,5.986,15.25,1,39.252,60.748
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.3 IC50 IHC.pzfx,Liver Bx.3 IC50 CD45,,row4,STS 3.3uM,1,14.52,13.42,1,108.197,-8.197
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.3 IC50 IHC.pzfx,Liver Bx.3 IC50 EpCam,,row1,3.3uM STS,1,8.3626,14.6665,1,57.018,42.982
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.3 IC50 IHC.pzfx,Liver Bx.3 IC50 EpCam,,row2,3.3uM STS,1,3.489,14.1271,1,24.697,75.303
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.3 IC50 IHC.pzfx,Liver Bx.3 IC50 EpCam,,row3,3.3uM STS,1,3.744,15.0,1,24.96,75.04
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.3 IC50 IHC.pzfx,Liver Bx.3 IC50 EpCam,,row4,3.3uM STS,1,7.541,10.79,1,69.889,30.111
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.4 IHC.pzfx,Liver Bx.4 Cleaved Caspase,,row1,Folfirinox,1,3.331,3.252,1,102.429,-2.429
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.4 IHC.pzfx,Liver Bx.4 Cleaved Caspase,,row2,Folfirinox,1,6.441,2.9998,1,214.714,-114.714
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.4 IHC.pzfx,Liver Bx.4 Cleaved Caspase,,row3,Folfirinox,1,5.561,5.487,1,101.349,-1.349
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.4 IHC.pzfx,Liver Bx.4 Cleaved Caspase,,row4,Folfirinox,1,5.027,9.0551,1,55.516,44.484
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.4 IHC.pzfx,Liver Bx.4 Ki67,,row1,Folfirinox,1,3.975,5.682,1,69.958,30.042
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.4 IHC.pzfx,Liver Bx.4 Ki67,,row2,Folfirinox,1,3.254,2.576,1,126.32,-26.32
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.4 IHC.pzfx,Liver Bx.4 Ki67,,row3,Folfirinox,1,4.23,4.736,1,89.316,10.684
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.4 IHC.pzfx,Liver Bx.4 Ki67,,row4,Folfirinox,1,4.084,7.84,1,52.092,47.908
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.4 IHC.pzfx,Liver Bx.4 CD45,,row1,Folfirinox,1,10.12,18.05,1,56.066,43.934
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.4 IHC.pzfx,Liver Bx.4 CD45,,row2,Folfirinox,1,9.129,23.1172,1,39.49,60.51
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.4 IHC.pzfx,Liver Bx.4 CD45,,row3,Folfirinox,1,7.613,18.03,1,42.224,57.776
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.4 IHC.pzfx,Liver Bx.4 CD45,,row4,Folfirinox,1,11.03,23.95,1,46.054,53.946
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.4 IHC.pzfx,Liver Bx.4 EpCam,,row1,Folfirinox,1,3.342,10.3033,1,32.436,67.564
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.4 IHC.pzfx,Liver Bx.4 EpCam,,row2,Folfirinox,1,2.5127,1.9562,1,128.448,-28.448
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.4 IHC.pzfx,Liver Bx.4 EpCam,,row3,Folfirinox,1,2.7684,3.3625,1,82.332,17.668
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.4 IHC.pzfx,Liver Bx.4 EpCam,,row4,Folfirinox,1,8.9473,4.585,1,195.143,-95.143
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.5 IHC.pzfx,Liver Bx.5 Cleaved Caspase,,row1,Folfirinox,1,6.758,5.479,1,123.344,-23.344
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.5 IHC.pzfx,Liver Bx.5 Cleaved Caspase,,row1,Gem/nab,1,10.955,5.479,1,199.945,-99.945
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.5 IHC.pzfx,Liver Bx.5 Cleaved Caspase,,row1,RMC7977,1,8.706,5.479,1,158.898,-58.898
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.5 IHC.pzfx,Liver Bx.5 Cleaved Caspase,,row2,Folfirinox,1,3.084,3.866,1,79.772,20.228
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.5 IHC.pzfx,Liver Bx.5 Cleaved Caspase,,row2,Gem/nab,1,9.239,3.866,1,238.981,-138.981
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.5 IHC.pzfx,Liver Bx.5 Cleaved Caspase,,row2,RMC7977,1,7.736,3.866,1,200.103,-100.103
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.5 IHC.pzfx,Liver Bx.5 Cleaved Caspase,,row3,Folfirinox,1,2.908,6.374,1,45.623,54.377
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.5 IHC.pzfx,Liver Bx.5 Cleaved Caspase,,row3,Gem/nab,1,11.985,6.374,1,188.029,-88.029
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.5 IHC.pzfx,Liver Bx.5 Cleaved Caspase,,row3,RMC7977,1,8.426,6.374,1,132.193,-32.193
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.5 IHC.pzfx,Liver Bx.5 Cleaved Caspase,,row4,Folfirinox,1,4.818,4.244,1,113.525,-13.525
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.5 IHC.pzfx,Liver Bx.5 Cleaved Caspase,,row4,Gem/nab,1,12.76,4.244,1,300.66,-200.66
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.5 IHC.pzfx,Liver Bx.5 Cleaved Caspase,,row4,RMC7977,1,8.314,4.244,1,195.9,-95.9
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.5 IHC.pzfx,Liver Bx.5 Ki67,,row1,Folfirinox,1,16.27,17.82,1,91.302,8.698
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.5 IHC.pzfx,Liver Bx.5 Ki67,,row1,Gem/nab,1,3.816,17.82,1,21.414,78.586
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.5 IHC.pzfx,Liver Bx.5 Ki67,,row1,RMC7977,1,2.695,17.82,1,15.123,84.877
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.5 IHC.pzfx,Liver Bx.5 Ki67,,row2,Folfirinox,1,15.77,10.89,1,144.812,-44.812
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.5 IHC.pzfx,Liver Bx.5 Ki67,,row2,Gem/nab,1,2.328,10.89,1,21.377,78.623
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.5 IHC.pzfx,Liver Bx.5 Ki67,,row2,RMC7977,1,3.83,10.89,1,35.17,64.83
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.5 IHC.pzfx,Liver Bx.5 Ki67,,row3,Folfirinox,1,10.72,13.06,1,82.083,17.917
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.5 IHC.pzfx,Liver Bx.5 Ki67,,row3,Gem/nab,1,3.852,13.06,1,29.495,70.505
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.5 IHC.pzfx,Liver Bx.5 Ki67,,row3,RMC7977,1,3.39,13.06,1,25.957,74.043
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.5 IHC.pzfx,Liver Bx.5 Ki67,,row4,Folfirinox,1,13.21,10.16,1,130.02,-30.02
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.5 IHC.pzfx,Liver Bx.5 Ki67,,row4,Gem/nab,1,3.456,10.16,1,34.016,65.984
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.5 IHC.pzfx,Liver Bx.5 Ki67,,row4,RMC7977,1,3.862,10.16,1,38.012,61.988
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.5 IHC.pzfx,Liver Bx.5 CD45,,row1,Folfirinox,1,14.37,21.02,1,68.363,31.637
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.5 IHC.pzfx,Liver Bx.5 CD45,,row1,Gem/nab,1,4.357,21.02,1,20.728,79.272
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.5 IHC.pzfx,Liver Bx.5 CD45,,row1,RMC7977,1,10.61,21.02,1,50.476,49.524
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.5 IHC.pzfx,Liver Bx.5 CD45,,row2,Folfirinox,1,31.31,23.01,1,136.071,-36.071
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.5 IHC.pzfx,Liver Bx.5 CD45,,row2,Gem/nab,1,10.06,23.01,1,43.72,56.28
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.5 IHC.pzfx,Liver Bx.5 CD45,,row2,RMC7977,1,5.259,23.01,1,22.855,77.145
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.5 IHC.pzfx,Liver Bx.5 CD45,,row3,Folfirinox,1,25.47,32.71,1,77.866,22.134
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.5 IHC.pzfx,Liver Bx.5 CD45,,row3,Gem/nab,1,21.94,32.71,1,67.074,32.926
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.5 IHC.pzfx,Liver Bx.5 CD45,,row3,RMC7977,1,6.268,32.71,1,19.162,80.838
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.5 IHC.pzfx,Liver Bx.5 CD45,,row4,Folfirinox,1,27.54,15.51,1,177.563,-77.563
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.5 IHC.pzfx,Liver Bx.5 CD45,,row4,Gem/nab,1,17.74,15.51,1,114.378,-14.378
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.5 IHC.pzfx,Liver Bx.5 CD45,,row4,RMC7977,1,6.115,15.51,1,39.426,60.574
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.5 IHC.pzfx,Liver Bx.5 EpCam,,row1,Folfirinox,1,8.529,5.955,1,143.224,-43.224
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.5 IHC.pzfx,Liver Bx.5 EpCam,,row1,Gem/nab,1,9.305,5.955,1,156.255,-56.255
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.5 IHC.pzfx,Liver Bx.5 EpCam,,row1,RMC7977,1,4.102,5.955,1,68.883,31.117
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.5 IHC.pzfx,Liver Bx.5 EpCam,,row2,Folfirinox,1,4.031,5.889,1,68.45,31.55
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.5 IHC.pzfx,Liver Bx.5 EpCam,,row2,Gem/nab,1,11.52,5.889,1,195.619,-95.619
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.5 IHC.pzfx,Liver Bx.5 EpCam,,row2,RMC7977,1,3.989,5.889,1,67.736,32.264
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.5 IHC.pzfx,Liver Bx.5 EpCam,,row3,Folfirinox,1,2.593,8.304,1,31.226,68.774
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.5 IHC.pzfx,Liver Bx.5 EpCam,,row3,Gem/nab,1,4.474,8.304,1,53.878,46.122
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.5 IHC.pzfx,Liver Bx.5 EpCam,,row3,RMC7977,1,2.532,8.304,1,30.491,69.509
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.5 IHC.pzfx,Liver Bx.5 EpCam,,row4,Folfirinox,1,16.93,6.891,1,245.683,-145.683
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.5 IHC.pzfx,Liver Bx.5 EpCam,,row4,Gem/nab,1,6.278,6.891,1,91.104,8.896
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.5 IHC.pzfx,Liver Bx.5 EpCam,,row4,RMC7977,1,4.643,6.891,1,67.378,32.622
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.6 IHC.pzfx,Liver Bx.6 Cleaved Caspase,,row1,No DMSO,1,2.406,2.643,1,91.033,8.967
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.6 IHC.pzfx,Liver Bx.6 Cleaved Caspase,,row1,Folfirinox,1,2.119,2.643,1,80.174,19.826
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.6 IHC.pzfx,Liver Bx.6 Cleaved Caspase,,row1,Gem/nab,1,1.919,2.643,1,72.607,27.393
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.6 IHC.pzfx,Liver Bx.6 Cleaved Caspase,,row1,RMC7977,1,10.67,2.643,1,403.708,-303.708
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.6 IHC.pzfx,Liver Bx.6 Cleaved Caspase,,row2,No DMSO,1,1.062,2.563,1,41.436,58.564
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.6 IHC.pzfx,Liver Bx.6 Cleaved Caspase,,row2,Folfirinox,1,1.678,2.563,1,65.47,34.53
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.6 IHC.pzfx,Liver Bx.6 Cleaved Caspase,,row2,Gem/nab,1,3.538,2.563,1,138.041,-38.041
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.6 IHC.pzfx,Liver Bx.6 Cleaved Caspase,,row2,RMC7977,1,4.496,2.563,1,175.419,-75.419
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.6 IHC.pzfx,Liver Bx.6 Cleaved Caspase,,row3,No DMSO,1,3.919,1.115,1,351.48,-251.48
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.6 IHC.pzfx,Liver Bx.6 Cleaved Caspase,,row3,Folfirinox,1,4.291,1.115,1,384.843,-284.843
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.6 IHC.pzfx,Liver Bx.6 Cleaved Caspase,,row3,Gem/nab,1,3.645,1.115,1,326.906,-226.906
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.6 IHC.pzfx,Liver Bx.6 Cleaved Caspase,,row3,RMC7977,1,3.543,1.115,1,317.758,-217.758
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.6 IHC.pzfx,Liver Bx.6 Cleaved Caspase,,row4,No DMSO,1,2.1726,3.2348,1,67.163,32.837
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.6 IHC.pzfx,Liver Bx.6 Cleaved Caspase,,row4,Folfirinox,1,3.6047,3.2348,1,111.435,-11.435
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.6 IHC.pzfx,Liver Bx.6 Cleaved Caspase,,row4,Gem/nab,1,2.7462,3.2348,1,84.896,15.104
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.6 IHC.pzfx,Liver Bx.6 Cleaved Caspase,,row4,RMC7977,1,3.773,3.2348,1,116.638,-16.638
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.6 IHC.pzfx,Liver Bx.6 CD45,,row1,No DMSO,1,14.4,11.98,1,120.2,-20.2
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.6 IHC.pzfx,Liver Bx.6 CD45,,row1,Folfirinox,1,16.15,11.98,1,134.808,-34.808
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.6 IHC.pzfx,Liver Bx.6 CD45,,row1,Gem/nab,1,21.42,11.98,1,178.798,-78.798
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.6 IHC.pzfx,Liver Bx.6 CD45,,row1,RMC7977,1,38.33,11.98,1,319.95,-219.95
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.6 IHC.pzfx,Liver Bx.6 CD45,,row2,No DMSO,1,8.792,11.61,1,75.728,24.272
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.6 IHC.pzfx,Liver Bx.6 CD45,,row2,Folfirinox,1,23.9,11.61,1,205.857,-105.857
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.6 IHC.pzfx,Liver Bx.6 CD45,,row2,Gem/nab,1,20.78,11.61,1,178.984,-78.984
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.6 IHC.pzfx,Liver Bx.6 CD45,,row2,RMC7977,1,23.44,11.61,1,201.895,-101.895
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.6 IHC.pzfx,Liver Bx.6 CD45,,row3,No DMSO,1,8.961,8.717,1,102.799,-2.799
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.6 IHC.pzfx,Liver Bx.6 CD45,,row3,Folfirinox,1,12.33,8.717,1,141.448,-41.448
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.6 IHC.pzfx,Liver Bx.6 CD45,,row3,Gem/nab,1,15.92,8.717,1,182.632,-82.632
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.6 IHC.pzfx,Liver Bx.6 CD45,,row3,RMC7977,1,24.78,8.717,1,284.272,-184.272
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.6 IHC.pzfx,Liver Bx.6 CD45,,row4,No DMSO,1,12.1968,10.7917,1,113.02,-13.02
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.6 IHC.pzfx,Liver Bx.6 CD45,,row4,Folfirinox,1,16.2151,10.7917,1,150.255,-50.255
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.6 IHC.pzfx,Liver Bx.6 CD45,,row4,Gem/nab,1,23.6285,10.7917,1,218.951,-118.951
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.6 IHC.pzfx,Liver Bx.6 CD45,,row4,RMC7977,1,34.4443,10.7917,1,319.174,-219.174
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.6 IHC.pzfx,Liver Bx.6 EpCam,,row1,No DMSO,1,10.84,6.334,1,171.14,-71.14
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.6 IHC.pzfx,Liver Bx.6 EpCam,,row1,Folfirinox,1,2.012,6.334,1,31.765,68.235
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.6 IHC.pzfx,Liver Bx.6 EpCam,,row1,Gem/nab,1,1.49,6.334,1,23.524,76.476
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.6 IHC.pzfx,Liver Bx.6 EpCam,,row1,RMC7977,1,0.6305,6.334,1,9.954,90.046
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.6 IHC.pzfx,Liver Bx.6 EpCam,,row2,No DMSO,1,10.35,1.194,1,866.834,-766.834
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.6 IHC.pzfx,Liver Bx.6 EpCam,,row2,Folfirinox,1,0.8069,1.194,1,67.58,32.42
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.6 IHC.pzfx,Liver Bx.6 EpCam,,row2,Gem/nab,1,0.902,1.194,1,75.544,24.456
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.6 IHC.pzfx,Liver Bx.6 EpCam,,row2,RMC7977,1,0.2681,1.194,1,22.454,77.546
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.6 IHC.pzfx,Liver Bx.6 EpCam,,row3,No DMSO,1,1.123,0.6438,1,174.433,-74.433
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.6 IHC.pzfx,Liver Bx.6 EpCam,,row3,Folfirinox,1,8.581,0.6438,1,1332.867,-1232.867
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.6 IHC.pzfx,Liver Bx.6 EpCam,,row3,Gem/nab,1,3.16,0.6438,1,490.836,-390.836
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.6 IHC.pzfx,Liver Bx.6 EpCam,,row3,RMC7977,1,3.568,0.6438,1,554.209,-454.209
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.6 IHC.pzfx,Liver Bx.6 EpCam,,row4,No DMSO,1,14.3876,9.6588,1,148.958,-48.958
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.6 IHC.pzfx,Liver Bx.6 EpCam,,row4,Folfirinox,1,1.8041,9.6588,1,18.678,81.322
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.6 IHC.pzfx,Liver Bx.6 EpCam,,row4,Gem/nab,1,3.9362,9.6588,1,40.752,59.248
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.6 IHC.pzfx,Liver Bx.6 EpCam,,row4,RMC7977,1,0.8487,9.6588,1,8.787,91.213
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.7 IHC.pzfx,Liver Bx.7 Cleaved Caspase,,row1,Folfirinox,1,0.7261,2.118,1,34.282,65.718
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.7 IHC.pzfx,Liver Bx.7 Cleaved Caspase,,row1,Trametinib,1,6.9976,2.118,1,330.387,-230.387
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.7 IHC.pzfx,Liver Bx.7 Cleaved Caspase,,row1,Vemurafenib,1,0.7261,2.118,1,34.282,65.718
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.7 IHC.pzfx,Liver Bx.7 Cleaved Caspase,,row2,Folfirinox,1,0.5605,1.7646,1,31.764,68.236
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.7 IHC.pzfx,Liver Bx.7 Cleaved Caspase,,row2,Trametinib,1,13.82,1.7646,1,783.18,-683.18
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.7 IHC.pzfx,Liver Bx.7 Cleaved Caspase,,row2,Vemurafenib,1,0.5605,1.7646,1,31.764,68.236
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.7 IHC.pzfx,Liver Bx.7 Cleaved Caspase,,row3,Folfirinox,1,0.9596,2.362,1,40.627,59.373
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.7 IHC.pzfx,Liver Bx.7 Cleaved Caspase,,row3,Trametinib,1,8.9889,2.362,1,380.563,-280.563
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.7 IHC.pzfx,Liver Bx.7 Cleaved Caspase,,row3,Vemurafenib,1,0.9596,2.362,1,40.627,59.373
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.7 IHC.pzfx,Liver Bx.7 Cleaved Caspase,,row4,Folfirinox,1,0.23,1.5082,1,15.25,84.75
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.7 IHC.pzfx,Liver Bx.7 Cleaved Caspase,,row4,Trametinib,1,16.83,1.5082,1,1115.9,-1015.9
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.7 IHC.pzfx,Liver Bx.7 Cleaved Caspase,,row4,Vemurafenib,1,0.23,1.5082,1,15.25,84.75
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.7 IHC.pzfx,Liver Bx.7 Ki67,,row1,Folfirinox,1,1.1248,36.62,1,3.072,96.928
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.7 IHC.pzfx,Liver Bx.7 Ki67,,row1,Trametinib,1,15.13,36.62,1,41.316,58.684
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.7 IHC.pzfx,Liver Bx.7 Ki67,,row1,Vemurafenib,1,20.4735,36.62,1,55.908,44.092
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.7 IHC.pzfx,Liver Bx.7 Ki67,,row2,Folfirinox,1,0.3105,36.5627,1,0.849,99.151
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.7 IHC.pzfx,Liver Bx.7 Ki67,,row2,Trametinib,1,3.78,36.5627,1,10.338,89.662
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.7 IHC.pzfx,Liver Bx.7 Ki67,,row2,Vemurafenib,1,9.9884,36.5627,1,27.319,72.681
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.7 IHC.pzfx,Liver Bx.7 Ki67,,row3,Folfirinox,1,0.6579,29.88,1,2.202,97.798
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.7 IHC.pzfx,Liver Bx.7 Ki67,,row3,Trametinib,1,2.9529,29.88,1,9.883,90.117
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.7 IHC.pzfx,Liver Bx.7 Ki67,,row3,Vemurafenib,1,7.4878,29.88,1,25.06,74.94
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.7 IHC.pzfx,Liver Bx.7 Ki67,,row4,Folfirinox,1,0.3453,44.77,1,0.771,99.229
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.7 IHC.pzfx,Liver Bx.7 Ki67,,row4,Trametinib,1,4.87,44.77,1,10.878,89.122
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.7 IHC.pzfx,Liver Bx.7 Ki67,,row4,Vemurafenib,1,11.84,44.77,1,26.446,73.554
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.7 IHC.pzfx,Liver Bx.7 CD45,,row1,Folfirinox,1,7.8834,15.6827,1,50.268,49.732
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.7 IHC.pzfx,Liver Bx.7 CD45,,row1,Trametinib,1,33.8195,15.6827,1,215.648,-115.648
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.7 IHC.pzfx,Liver Bx.7 CD45,,row1,Vemurafenib,1,13.4163,15.6827,1,85.548,14.452
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.7 IHC.pzfx,Liver Bx.7 CD45,,row2,Folfirinox,1,6.9845,17.74,1,39.371,60.629
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.7 IHC.pzfx,Liver Bx.7 CD45,,row2,Trametinib,1,57.3264,17.74,1,323.148,-223.148
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.7 IHC.pzfx,Liver Bx.7 CD45,,row2,Vemurafenib,1,25.9161,17.74,1,146.089,-46.089
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.7 IHC.pzfx,Liver Bx.7 CD45,,row3,Folfirinox,1,4.086,22.17,1,18.43,81.57
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.7 IHC.pzfx,Liver Bx.7 CD45,,row3,Trametinib,1,36.62,22.17,1,165.178,-65.178
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.7 IHC.pzfx,Liver Bx.7 CD45,,row3,Vemurafenib,1,24.32,22.17,1,109.698,-9.698
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.7 IHC.pzfx,Liver Bx.7 CD45,,row4,Folfirinox,1,5.315,18.75,1,28.347,71.653
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.7 IHC.pzfx,Liver Bx.7 CD45,,row4,Trametinib,1,40.98,18.75,1,218.56,-118.56
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.7 IHC.pzfx,Liver Bx.7 CD45,,row4,Vemurafenib,1,16.85,18.75,1,89.867,10.133
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.7 IHC.pzfx,Liver Bx.7 EpCam,,row1,Folfirinox,1,0.3364,74.2277,1,0.453,99.547
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.7 IHC.pzfx,Liver Bx.7 EpCam,,row1,Trametinib,1,68.1076,74.2277,1,91.755,8.245
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.7 IHC.pzfx,Liver Bx.7 EpCam,,row1,Vemurafenib,1,75.46,74.2277,1,101.66,-1.66
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.7 IHC.pzfx,Liver Bx.7 EpCam,,row2,Folfirinox,1,0.7325,58.7721,1,1.246,98.754
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.7 IHC.pzfx,Liver Bx.7 EpCam,,row2,Trametinib,1,77.7713,58.7721,1,132.327,-32.327
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.7 IHC.pzfx,Liver Bx.7 EpCam,,row2,Vemurafenib,1,63.8176,58.7721,1,108.585,-8.585
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.7 IHC.pzfx,Liver Bx.7 EpCam,,row3,Folfirinox,1,1.398,62.2351,1,2.246,97.754
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.7 IHC.pzfx,Liver Bx.7 EpCam,,row3,Trametinib,1,67.25,62.2351,1,108.058,-8.058
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.7 IHC.pzfx,Liver Bx.7 EpCam,,row3,Vemurafenib,1,77.54,62.2351,1,124.592,-24.592
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.7 IHC.pzfx,Liver Bx.7 EpCam,,row4,Folfirinox,1,3.275,66.21,1,4.946,95.054
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.7 IHC.pzfx,Liver Bx.7 EpCam,,row4,Trametinib,1,66.87,66.21,1,100.997,-0.997
+Manuscript Drafts with Results/GraphPad Files/Liver Bx.7 IHC.pzfx,Liver Bx.7 EpCam,,row4,Vemurafenib,1,75.8748,66.21,1,114.597,-14.597
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.4 IHC.pzfx,PDAC 4 Cleaved Caspase,,row1,Folfirinox,1,35.82,1.139792,1,3142.678,-3042.678
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.4 IHC.pzfx,PDAC 4 Cleaved Caspase,,row2,Folfirinox,1,33.33,2.869288,1,1161.612,-1061.612
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.4 IHC.pzfx,PDAC 4 Cleaved Caspase,,row3,Folfirinox,1,15.18353726,3.416667,1,444.396,-344.396
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.4 IHC.pzfx,PDAC 4 Cleaved Caspase,,row4,Folfirinox,1,19.59798995,1.08811,1,1801.103,-1701.103
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.4 IHC.pzfx,PDAC 4 Ki67,,row1,Folfirinox,1,5.8,51.474,1,11.268,88.732
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.4 IHC.pzfx,PDAC 4 Ki67,,row2,Folfirinox,1,6.2,57.0781,1,10.862,89.138
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.4 IHC.pzfx,PDAC 4 Ki67,,row3,Folfirinox,1,3.0,35.39,1,8.477,91.523
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.4 IHC.pzfx,PDAC 4 Ki67,,row4,Folfirinox,1,4.6934,20.6,1,22.783,77.217
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.4 IHC.pzfx,PDAC 4 CD45,,row1,Folfirinox,1,36.9521,22.1,1,167.204,-67.204
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.4 IHC.pzfx,PDAC 4 CD45,,row2,Folfirinox,1,31.9052,22.1263,1,144.196,-44.196
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.4 IHC.pzfx,PDAC 4 CD45,,row3,Folfirinox,1,56.5892,18.2,1,310.93,-210.93
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.4 IHC.pzfx,PDAC 4 CD45,,row4,Folfirinox,1,36.5276,13.2,1,276.724,-176.724
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.4 IHC.pzfx,PDAC 4 EpCam,,row1,Folfirinox,1,0.332,41.8881,1,0.793,99.207
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.4 IHC.pzfx,PDAC 4 EpCam,,row2,Folfirinox,1,1.2931,39.1235,1,3.305,96.695
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.4 IHC.pzfx,PDAC 4 EpCam,,row3,Folfirinox,1,2.3844,34.8195,1,6.848,93.152
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.4 IHC.pzfx,PDAC 4 EpCam,,row4,Folfirinox,1,3.2911,28.0436,1,11.736,88.264
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC (Autosaved).prism,PDAC 5 Cleaved Caspase,,6,Folfirinox,1,0.7044,1.569,2,44.895,55.105
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC (Autosaved).prism,PDAC 5 Cleaved Caspase,,6,Gem/nab,1,14.7,1.569,2,936.902,-836.902
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC (Autosaved).prism,PDAC 5 Cleaved Caspase,,6,RMC7977,1,3.9,1.569,2,248.566,-148.566
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC (Autosaved).prism,PDAC 5 Cleaved Caspase,,2.8976,Folfirinox,1,4.2,3.863,2,108.724,-8.724
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC (Autosaved).prism,PDAC 5 Cleaved Caspase,,2.8976,Gem/nab,1,7.9,3.863,2,204.504,-104.504
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC (Autosaved).prism,PDAC 5 Cleaved Caspase,,2.8976,RMC7977,1,7.5,3.863,2,194.15,-94.15
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC (Autosaved).prism,PDAC 5 Cleaved Caspase,,1.6162,Folfirinox,1,2.7,3.1,2,87.097,12.903
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC (Autosaved).prism,PDAC 5 Cleaved Caspase,,1.6162,Gem/nab,1,11.5,3.1,2,370.968,-270.968
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC (Autosaved).prism,PDAC 5 Cleaved Caspase,,1.6162,RMC7977,1,4.7,3.1,2,151.613,-51.613
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC (Autosaved).prism,PDAC 5 Cleaved Caspase,,1.4,Folfirinox,1,4.0,2.9,2,137.931,-37.931
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC (Autosaved).prism,PDAC 5 Cleaved Caspase,,1.4,Gem/nab,1,10.0,2.9,2,344.828,-244.828
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC (Autosaved).prism,PDAC 5 Cleaved Caspase,,1.4,RMC7977,1,6.7,2.9,2,231.034,-131.034
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC (Autosaved).prism,PDAC 5 Ki67,,12.4,Folfirinox,1,4.1,14.9,2,27.517,72.483
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC (Autosaved).prism,PDAC 5 Ki67,,12.4,Gem/nab,1,0.0,14.9,2,0.0,100.0
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC (Autosaved).prism,PDAC 5 Ki67,,12.4,RMC7977,1,0.0,14.9,2,0.0,100.0
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC (Autosaved).prism,PDAC 5 Ki67,,22.3,Folfirinox,1,4.8,12.2,2,39.344,60.656
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC (Autosaved).prism,PDAC 5 Ki67,,22.3,Gem/nab,1,0.0,12.2,2,0.0,100.0
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC (Autosaved).prism,PDAC 5 Ki67,,22.3,RMC7977,1,0.0,12.2,2,0.0,100.0
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC (Autosaved).prism,PDAC 5 Ki67,,20.8,Folfirinox,1,6.3,9.3,2,67.742,32.258
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC (Autosaved).prism,PDAC 5 Ki67,,20.8,Gem/nab,1,0.0,9.3,2,0.0,100.0
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC (Autosaved).prism,PDAC 5 Ki67,,20.8,RMC7977,1,0.7,9.3,2,7.527,92.473
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC (Autosaved).prism,PDAC 5 Ki67,,15.3,Folfirinox,1,2.1,10.75,2,19.535,80.465
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC (Autosaved).prism,PDAC 5 Ki67,,15.3,Gem/nab,1,0.0,10.75,2,0.0,100.0
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC (Autosaved).prism,PDAC 5 Ki67,,15.3,RMC7977,1,0.6,10.75,2,5.581,94.419
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC (Autosaved).prism,PDAC 5 CD45,,36.8,Folfirinox,1,38.9,16.7,2,232.934,-132.934
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC (Autosaved).prism,PDAC 5 CD45,,36.8,Gem/nab,1,4.9,16.7,2,29.341,70.659
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC (Autosaved).prism,PDAC 5 CD45,,36.8,RMC7977,1,16.2,16.7,2,97.006,2.994
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC (Autosaved).prism,PDAC 5 CD45,,19.5,Folfirinox,1,35.2,14.75,2,238.644,-138.644
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC (Autosaved).prism,PDAC 5 CD45,,19.5,Gem/nab,1,15.2,14.75,2,103.051,-3.051
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC (Autosaved).prism,PDAC 5 CD45,,19.5,RMC7977,1,19.1,14.75,2,129.492,-29.492
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC (Autosaved).prism,PDAC 5 CD45,,24.8,Folfirinox,1,31.9,17.2,2,185.465,-85.465
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC (Autosaved).prism,PDAC 5 CD45,,24.8,Gem/nab,1,19.4,17.2,2,112.791,-12.791
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC (Autosaved).prism,PDAC 5 CD45,,24.8,RMC7977,1,7.6,17.2,2,44.186,55.814
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC (Autosaved).prism,PDAC 5 CD45,,14.4,Folfirinox,1,13.7,20.6,2,66.505,33.495
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC (Autosaved).prism,PDAC 5 CD45,,14.4,Gem/nab,1,15.8,20.6,2,76.699,23.301
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC (Autosaved).prism,PDAC 5 CD45,,14.4,RMC7977,1,13.2,20.6,2,64.078,35.922
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC (Autosaved).prism,PDAC 5 Epcam,,6.9,Folfirinox,1,1.3,9.1597,2,14.193,85.807
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC (Autosaved).prism,PDAC 5 Epcam,,6.9,Gem/nab,1,1.1,9.1597,2,12.009,87.991
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC (Autosaved).prism,PDAC 5 Epcam,,6.9,RMC7977,1,7.9,9.1597,2,86.247,13.753
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC (Autosaved).prism,PDAC 5 Epcam,,8,Folfirinox,1,0.3,7.109,2,4.22,95.78
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC (Autosaved).prism,PDAC 5 Epcam,,8,Gem/nab,1,5.4228,7.109,2,76.281,23.719
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC (Autosaved).prism,PDAC 5 Epcam,,8,RMC7977,1,4.4,7.109,2,61.893,38.107
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC (Autosaved).prism,PDAC 5 Epcam,,3,Folfirinox,1,0.1,5.45,2,1.835,98.165
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC (Autosaved).prism,PDAC 5 Epcam,,3,Gem/nab,1,2.4,5.45,2,44.037,55.963
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC (Autosaved).prism,PDAC 5 Epcam,,3,RMC7977,1,1.2913,5.45,2,23.694,76.306
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC (Autosaved).prism,PDAC 5 Epcam,,6.7,Folfirinox,1,0.3,5.7,2,5.263,94.737
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC (Autosaved).prism,PDAC 5 Epcam,,6.7,Gem/nab,1,1.9,5.7,2,33.333,66.667
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC (Autosaved).prism,PDAC 5 Epcam,,6.7,RMC7977,1,7.6,5.7,2,133.333,-33.333
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC.pzfx,PDAC 5 Cleaved Caspase,,row1,Folfirinox,1,1.8047,3.66665,2,49.219,50.781
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC.pzfx,PDAC 5 Cleaved Caspase,,row1,Gem/nab,1,0.7044,3.66665,2,19.211,80.789
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC.pzfx,PDAC 5 Cleaved Caspase,,row1,RMC7977,1,14.7,3.66665,2,400.911,-300.911
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC.pzfx,PDAC 5 Cleaved Caspase,,row1,STS,1,3.9,3.66665,2,106.364,-6.364
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC.pzfx,PDAC 5 Cleaved Caspase,,row2,Folfirinox,1,3.6365,3.49355,2,104.092,-4.092
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC.pzfx,PDAC 5 Cleaved Caspase,,row2,Gem/nab,1,4.2,3.49355,2,120.222,-20.222
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC.pzfx,PDAC 5 Cleaved Caspase,,row2,RMC7977,1,7.9,3.49355,2,226.131,-126.131
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC.pzfx,PDAC 5 Cleaved Caspase,,row2,STS,1,7.5,3.49355,2,214.681,-114.681
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC.pzfx,PDAC 5 Cleaved Caspase,,row3,Folfirinox,1,2.4,2.7081,2,88.623,11.377
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC.pzfx,PDAC 5 Cleaved Caspase,,row3,Gem/nab,1,2.7,2.7081,2,99.701,0.299
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC.pzfx,PDAC 5 Cleaved Caspase,,row3,RMC7977,1,11.5,2.7081,2,424.652,-324.652
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC.pzfx,PDAC 5 Cleaved Caspase,,row3,STS,1,4.7,2.7081,2,173.553,-73.553
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC.pzfx,PDAC 5 Cleaved Caspase,,row4,Folfirinox,1,3.2,2.0,2,160.0,-60.0
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC.pzfx,PDAC 5 Cleaved Caspase,,row4,Gem/nab,1,4.0,2.0,2,200.0,-100.0
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC.pzfx,PDAC 5 Cleaved Caspase,,row4,RMC7977,1,10.0,2.0,2,500.0,-400.0
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC.pzfx,PDAC 5 Cleaved Caspase,,row4,STS,1,6.7,2.0,2,335.0,-235.0
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC.pzfx,PDAC 5 Ki67,,row1,Folfirinox,1,0.0,21.1,2,0.0,100.0
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC.pzfx,PDAC 5 Ki67,,row1,Gem/nab,1,4.1,21.1,2,19.431,80.569
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC.pzfx,PDAC 5 Ki67,,row1,RMC7977,1,0.0,21.1,2,0.0,100.0
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC.pzfx,PDAC 5 Ki67,,row1,STS,1,0.0,21.1,2,0.0,100.0
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC.pzfx,PDAC 5 Ki67,,row2,Folfirinox,1,0.4,23.15,2,1.728,98.272
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC.pzfx,PDAC 5 Ki67,,row2,Gem/nab,1,4.8,23.15,2,20.734,79.266
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC.pzfx,PDAC 5 Ki67,,row2,RMC7977,1,0.0,23.15,2,0.0,100.0
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC.pzfx,PDAC 5 Ki67,,row2,STS,1,0.0,23.15,2,0.0,100.0
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC.pzfx,PDAC 5 Ki67,,row3,Folfirinox,1,0.2,19.6,2,1.02,98.98
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC.pzfx,PDAC 5 Ki67,,row3,Gem/nab,1,6.3,19.6,2,32.143,67.857
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC.pzfx,PDAC 5 Ki67,,row3,RMC7977,1,0.0,19.6,2,0.0,100.0
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC.pzfx,PDAC 5 Ki67,,row3,STS,1,0.7,19.6,2,3.571,96.429
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC.pzfx,PDAC 5 Ki67,,row4,Folfirinox,1,0.2,18.3,2,1.093,98.907
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC.pzfx,PDAC 5 Ki67,,row4,Gem/nab,1,2.1,18.3,2,11.475,88.525
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC.pzfx,PDAC 5 Ki67,,row4,RMC7977,1,0.0,18.3,2,0.0,100.0
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC.pzfx,PDAC 5 Ki67,,row4,STS,1,0.6,18.3,2,3.279,96.721
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC.pzfx,PDAC 5 CD45,,row1,Folfirinox,1,16.1,27.05,2,59.519,40.481
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC.pzfx,PDAC 5 CD45,,row1,Gem/nab,1,38.9,27.05,2,143.808,-43.808
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC.pzfx,PDAC 5 CD45,,row1,RMC7977,1,4.9,27.05,2,18.115,81.885
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC.pzfx,PDAC 5 CD45,,row1,STS,1,16.2,27.05,2,59.889,40.111
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC.pzfx,PDAC 5 CD45,,row2,Folfirinox,1,8.9,20.05,2,44.389,55.611
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC.pzfx,PDAC 5 CD45,,row2,Gem/nab,1,35.2,20.05,2,175.561,-75.561
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC.pzfx,PDAC 5 CD45,,row2,RMC7977,1,15.2,20.05,2,75.81,24.19
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC.pzfx,PDAC 5 CD45,,row2,STS,1,19.1,20.05,2,95.262,4.738
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC.pzfx,PDAC 5 CD45,,row3,Folfirinox,1,19.7,19.75,2,99.747,0.253
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC.pzfx,PDAC 5 CD45,,row3,Gem/nab,1,31.9,19.75,2,161.519,-61.519
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC.pzfx,PDAC 5 CD45,,row3,RMC7977,1,19.4,19.75,2,98.228,1.772
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC.pzfx,PDAC 5 CD45,,row3,STS,1,7.6,19.75,2,38.481,61.519
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC.pzfx,PDAC 5 CD45,,row4,Folfirinox,1,19.0,18.3,2,103.825,-3.825
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC.pzfx,PDAC 5 CD45,,row4,Gem/nab,1,13.7,18.3,2,74.863,25.137
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC.pzfx,PDAC 5 CD45,,row4,RMC7977,1,15.8,18.3,2,86.339,13.661
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC.pzfx,PDAC 5 CD45,,row4,STS,1,13.2,18.3,2,72.131,27.869
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC.pzfx,PDAC 5 Epcam,,row1,Folfirinox,1,7.3194,8.95,2,81.781,18.219
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC.pzfx,PDAC 5 Epcam,,row1,Gem/nab,1,1.3,8.95,2,14.525,85.475
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC.pzfx,PDAC 5 Epcam,,row1,RMC7977,1,1.1,8.95,2,12.291,87.709
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC.pzfx,PDAC 5 Epcam,,row1,STS,1,7.9,8.95,2,88.268,11.732
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC.pzfx,PDAC 5 Epcam,,row2,Folfirinox,1,10.6,5.809,2,182.475,-82.475
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC.pzfx,PDAC 5 Epcam,,row2,Gem/nab,1,0.3,5.809,2,5.164,94.836
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC.pzfx,PDAC 5 Epcam,,row2,RMC7977,1,5.4228,5.809,2,93.352,6.648
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC.pzfx,PDAC 5 Epcam,,row2,STS,1,4.4,5.809,2,75.745,24.255
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC.pzfx,PDAC 5 Epcam,,row3,Folfirinox,1,3.4,5.25,2,64.762,35.238
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC.pzfx,PDAC 5 Epcam,,row3,Gem/nab,1,0.1,5.25,2,1.905,98.095
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC.pzfx,PDAC 5 Epcam,,row3,RMC7977,1,2.4,5.25,2,45.714,54.286
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC.pzfx,PDAC 5 Epcam,,row3,STS,1,1.2913,5.25,2,24.596,75.404
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC.pzfx,PDAC 5 Epcam,,row4,Folfirinox,1,0.9,8.6,2,10.465,89.535
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC.pzfx,PDAC 5 Epcam,,row4,Gem/nab,1,0.3,8.6,2,3.488,96.512
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC.pzfx,PDAC 5 Epcam,,row4,RMC7977,1,1.9,8.6,2,22.093,77.907
+Manuscript Drafts with Results/GraphPad Files/PDAC Bx.5 IHC.pzfx,PDAC 5 Epcam,,row4,STS,1,7.6,8.6,2,88.372,11.628
+Manuscript Drafts with Results/GraphPad Files/umbilicus IHC.pzfx,Umbilicus Cleaved Caspase,,row1,Folfirinox,1,7.3,2.8,1,260.714,-160.714
+Manuscript Drafts with Results/GraphPad Files/umbilicus IHC.pzfx,Umbilicus Cleaved Caspase,,row1,Gem/nab,1,5.1,2.8,1,182.143,-82.143
+Manuscript Drafts with Results/GraphPad Files/umbilicus IHC.pzfx,Umbilicus Cleaved Caspase,,row1,RMC7977,1,7.4,2.8,1,264.286,-164.286
+Manuscript Drafts with Results/GraphPad Files/umbilicus IHC.pzfx,Umbilicus Cleaved Caspase,,row1,STS,1,6.2,2.8,1,221.429,-121.429
+Manuscript Drafts with Results/GraphPad Files/umbilicus IHC.pzfx,Umbilicus Cleaved Caspase,,row2,Folfirinox,1,6.3,7.7,1,81.818,18.182
+Manuscript Drafts with Results/GraphPad Files/umbilicus IHC.pzfx,Umbilicus Cleaved Caspase,,row2,Gem/nab,1,3.5,7.7,1,45.455,54.545
+Manuscript Drafts with Results/GraphPad Files/umbilicus IHC.pzfx,Umbilicus Cleaved Caspase,,row2,RMC7977,1,8.5,7.7,1,110.39,-10.39
+Manuscript Drafts with Results/GraphPad Files/umbilicus IHC.pzfx,Umbilicus Cleaved Caspase,,row2,STS,1,3.5,7.7,1,45.455,54.545
+Manuscript Drafts with Results/GraphPad Files/umbilicus IHC.pzfx,Umbilicus Cleaved Caspase,,row3,Folfirinox,1,4.6,3.4,1,135.294,-35.294
+Manuscript Drafts with Results/GraphPad Files/umbilicus IHC.pzfx,Umbilicus Cleaved Caspase,,row3,Gem/nab,1,4.8,3.4,1,141.176,-41.176
+Manuscript Drafts with Results/GraphPad Files/umbilicus IHC.pzfx,Umbilicus Cleaved Caspase,,row3,RMC7977,1,6.7,3.4,1,197.059,-97.059
+Manuscript Drafts with Results/GraphPad Files/umbilicus IHC.pzfx,Umbilicus Cleaved Caspase,,row3,STS,1,8.5,3.4,1,250.0,-150.0
+Manuscript Drafts with Results/GraphPad Files/umbilicus IHC.pzfx,Umbilicus Cleaved Caspase,,row4,Folfirinox,1,3.7,4.3,1,86.047,13.953
+Manuscript Drafts with Results/GraphPad Files/umbilicus IHC.pzfx,Umbilicus Cleaved Caspase,,row4,Gem/nab,1,3.2,4.3,1,74.419,25.581
+Manuscript Drafts with Results/GraphPad Files/umbilicus IHC.pzfx,Umbilicus Cleaved Caspase,,row4,RMC7977,1,7.2,4.3,1,167.442,-67.442
+Manuscript Drafts with Results/GraphPad Files/umbilicus IHC.pzfx,Umbilicus Cleaved Caspase,,row4,STS,1,5.8,4.3,1,134.884,-34.884
+Manuscript Drafts with Results/GraphPad Files/umbilicus IHC.pzfx,Umbilicus Ki67,,row1,Folfirinox,1,21.1,29.4,1,71.769,28.231
+Manuscript Drafts with Results/GraphPad Files/umbilicus IHC.pzfx,Umbilicus Ki67,,row1,Gem/nab,1,13.4,29.4,1,45.578,54.422
+Manuscript Drafts with Results/GraphPad Files/umbilicus IHC.pzfx,Umbilicus Ki67,,row1,RMC7977,1,31.4,29.4,1,106.803,-6.803
+Manuscript Drafts with Results/GraphPad Files/umbilicus IHC.pzfx,Umbilicus Ki67,,row1,STS,1,0.4,29.4,1,1.361,98.639
+Manuscript Drafts with Results/GraphPad Files/umbilicus IHC.pzfx,Umbilicus Ki67,,row2,Folfirinox,1,12.6,17.5,1,72.0,28.0
+Manuscript Drafts with Results/GraphPad Files/umbilicus IHC.pzfx,Umbilicus Ki67,,row2,Gem/nab,1,10.5,17.5,1,60.0,40.0
+Manuscript Drafts with Results/GraphPad Files/umbilicus IHC.pzfx,Umbilicus Ki67,,row2,RMC7977,1,9.5,17.5,1,54.286,45.714
+Manuscript Drafts with Results/GraphPad Files/umbilicus IHC.pzfx,Umbilicus Ki67,,row2,STS,1,5.3,17.5,1,30.286,69.714
+Manuscript Drafts with Results/GraphPad Files/umbilicus IHC.pzfx,Umbilicus Ki67,,row3,Folfirinox,1,7.8,19.4,1,40.206,59.794
+Manuscript Drafts with Results/GraphPad Files/umbilicus IHC.pzfx,Umbilicus Ki67,,row3,Gem/nab,1,17.3,19.4,1,89.175,10.825
+Manuscript Drafts with Results/GraphPad Files/umbilicus IHC.pzfx,Umbilicus Ki67,,row3,RMC7977,1,17.9,19.4,1,92.268,7.732
+Manuscript Drafts with Results/GraphPad Files/umbilicus IHC.pzfx,Umbilicus Ki67,,row3,STS,1,19.6,19.4,1,101.031,-1.031
+Manuscript Drafts with Results/GraphPad Files/umbilicus IHC.pzfx,Umbilicus Ki67,,row4,Folfirinox,1,11.6,14.9,1,77.852,22.148
+Manuscript Drafts with Results/GraphPad Files/umbilicus IHC.pzfx,Umbilicus Ki67,,row4,Gem/nab,1,12.2,14.9,1,81.879,18.121
+Manuscript Drafts with Results/GraphPad Files/umbilicus IHC.pzfx,Umbilicus Ki67,,row4,RMC7977,1,14.8,14.9,1,99.329,0.671
+Manuscript Drafts with Results/GraphPad Files/umbilicus IHC.pzfx,Umbilicus Ki67,,row4,STS,1,6.8,14.9,1,45.638,54.362
+Manuscript Drafts with Results/GraphPad Files/umbilicus IHC.pzfx,Umbilicus CD45,,row1,Folfirinox,1,36.5,22.9,1,159.389,-59.389
+Manuscript Drafts with Results/GraphPad Files/umbilicus IHC.pzfx,Umbilicus CD45,,row1,Gem/nab,1,19.1,22.9,1,83.406,16.594
+Manuscript Drafts with Results/GraphPad Files/umbilicus IHC.pzfx,Umbilicus CD45,,row1,RMC7977,1,14.6,22.9,1,63.755,36.245
+Manuscript Drafts with Results/GraphPad Files/umbilicus IHC.pzfx,Umbilicus CD45,,row1,STS,1,23.4,22.9,1,102.183,-2.183
+Manuscript Drafts with Results/GraphPad Files/umbilicus IHC.pzfx,Umbilicus CD45,,row2,Folfirinox,1,19.3,28.5,1,67.719,32.281
+Manuscript Drafts with Results/GraphPad Files/umbilicus IHC.pzfx,Umbilicus CD45,,row2,Gem/nab,1,12.5,28.5,1,43.86,56.14
+Manuscript Drafts with Results/GraphPad Files/umbilicus IHC.pzfx,Umbilicus CD45,,row2,RMC7977,1,17.1,28.5,1,60.0,40.0
+Manuscript Drafts with Results/GraphPad Files/umbilicus IHC.pzfx,Umbilicus CD45,,row2,STS,1,19.4,28.5,1,68.07,31.93
+Manuscript Drafts with Results/GraphPad Files/umbilicus IHC.pzfx,Umbilicus CD45,,row3,Folfirinox,1,20.2,28.6,1,70.629,29.371
+Manuscript Drafts with Results/GraphPad Files/umbilicus IHC.pzfx,Umbilicus CD45,,row3,Gem/nab,1,24.9,28.6,1,87.063,12.937
+Manuscript Drafts with Results/GraphPad Files/umbilicus IHC.pzfx,Umbilicus CD45,,row3,RMC7977,1,22.8,28.6,1,79.72,20.28
+Manuscript Drafts with Results/GraphPad Files/umbilicus IHC.pzfx,Umbilicus CD45,,row3,STS,1,21.3,28.6,1,74.476,25.524
+Manuscript Drafts with Results/GraphPad Files/umbilicus IHC.pzfx,Umbilicus CD45,,row4,Folfirinox,1,27.0,28.4,1,95.07,4.93
+Manuscript Drafts with Results/GraphPad Files/umbilicus IHC.pzfx,Umbilicus CD45,,row4,Gem/nab,1,19.2,28.4,1,67.606,32.394
+Manuscript Drafts with Results/GraphPad Files/umbilicus IHC.pzfx,Umbilicus CD45,,row4,RMC7977,1,22.3,28.4,1,78.521,21.479
+Manuscript Drafts with Results/GraphPad Files/umbilicus IHC.pzfx,Umbilicus CD45,,row4,STS,1,28.0,28.4,1,98.592,1.408
+Manuscript Drafts with Results/GraphPad Files/umbilicus IHC.pzfx,Umbilicus EpCam,,row1,Folfirinox,1,27.1,36.1,1,75.069,24.931
+Manuscript Drafts with Results/GraphPad Files/umbilicus IHC.pzfx,Umbilicus EpCam,,row1,Gem/nab,1,48.2,36.1,1,133.518,-33.518
+Manuscript Drafts with Results/GraphPad Files/umbilicus IHC.pzfx,Umbilicus EpCam,,row1,RMC7977,1,35.5,36.1,1,98.338,1.662
+Manuscript Drafts with Results/GraphPad Files/umbilicus IHC.pzfx,Umbilicus EpCam,,row1,STS,1,25.6,36.1,1,70.914,29.086
+Manuscript Drafts with Results/GraphPad Files/umbilicus IHC.pzfx,Umbilicus EpCam,,row2,Folfirinox,1,20.7,45.8,1,45.197,54.803
+Manuscript Drafts with Results/GraphPad Files/umbilicus IHC.pzfx,Umbilicus EpCam,,row2,Gem/nab,1,35.9,45.8,1,78.384,21.616
+Manuscript Drafts with Results/GraphPad Files/umbilicus IHC.pzfx,Umbilicus EpCam,,row2,RMC7977,1,26.9,45.8,1,58.734,41.266
+Manuscript Drafts with Results/GraphPad Files/umbilicus IHC.pzfx,Umbilicus EpCam,,row2,STS,1,33.0,45.8,1,72.052,27.948
+Manuscript Drafts with Results/GraphPad Files/umbilicus IHC.pzfx,Umbilicus EpCam,,row3,Folfirinox,1,21.0,28.5,1,73.684,26.316
+Manuscript Drafts with Results/GraphPad Files/umbilicus IHC.pzfx,Umbilicus EpCam,,row3,Gem/nab,1,29.6,28.5,1,103.86,-3.86
+Manuscript Drafts with Results/GraphPad Files/umbilicus IHC.pzfx,Umbilicus EpCam,,row3,RMC7977,1,33.1,28.5,1,116.14,-16.14
+Manuscript Drafts with Results/GraphPad Files/umbilicus IHC.pzfx,Umbilicus EpCam,,row3,STS,1,35.5,28.5,1,124.561,-24.561
+Manuscript Drafts with Results/GraphPad Files/umbilicus IHC.pzfx,Umbilicus EpCam,,row4,Folfirinox,1,24.3,31.9,1,76.176,23.824
+Manuscript Drafts with Results/GraphPad Files/umbilicus IHC.pzfx,Umbilicus EpCam,,row4,Gem/nab,1,37.1,31.9,1,116.301,-16.301
+Manuscript Drafts with Results/GraphPad Files/umbilicus IHC.pzfx,Umbilicus EpCam,,row4,RMC7977,1,23.0,31.9,1,72.1,27.9
+Manuscript Drafts with Results/GraphPad Files/umbilicus IHC.pzfx,Umbilicus EpCam,,row4,STS,1,36.6,31.9,1,114.734,-14.734
+Manuscript Drafts with Results/Manuscript Final Version/Manuscript Prism Files/Fig.3 Chemo Treat Liver Bx Results/1. Liver Biopsy 6 MTS assay.prism,Data 2,,24hrs,Folfirinox,1,0.165,1.115,1,14.798,85.202
+Manuscript Drafts with Results/Manuscript Final Version/Manuscript Prism Files/Fig.3 Chemo Treat Liver Bx Results/1. Liver Biopsy 6 MTS assay.prism,Data 2,,24hrs,Trametinib,1,0.969,1.115,1,86.906,13.094
+Manuscript Drafts with Results/Manuscript Final Version/Manuscript Prism Files/Fig.3 Chemo Treat Liver Bx Results/1. Liver Biopsy 6 MTS assay.prism,Data 2,,24hrs,Vemurafinib,1,1.125,1.115,1,100.897,-0.897
+Manuscript Drafts with Results/Manuscript Final Version/Manuscript Prism Files/Fig.3 Chemo Treat Liver Bx Results/1. Liver Biopsy 6 MTS assay.prism,Data 2,,48hrs,Folfirinox,1,0.045,0.865,1,5.202,94.798
+Manuscript Drafts with Results/Manuscript Final Version/Manuscript Prism Files/Fig.3 Chemo Treat Liver Bx Results/1. Liver Biopsy 6 MTS assay.prism,Data 2,,48hrs,Trametinib,1,0.168,0.865,1,19.422,80.578
+Manuscript Drafts with Results/Manuscript Final Version/Manuscript Prism Files/Fig.3 Chemo Treat Liver Bx Results/1. Liver Biopsy 6 MTS assay.prism,Data 2,,48hrs,Vemurafinib,1,0.79,0.865,1,91.329,8.671
+Manuscript Drafts with Results/Manuscript Final Version/Manuscript Prism Files/Fig.3 Chemo Treat Liver Bx Results/1. Liver Biopsy 6 MTS assay.prism,48h w/o vem,,48hrs,Folfirinox,1,0.045,0.865,1,5.202,94.798
+Manuscript Drafts with Results/Manuscript Final Version/Manuscript Prism Files/Fig.3 Chemo Treat Liver Bx Results/1. Liver Biopsy 6 MTS assay.prism,48h w/o vem,,48hrs,Trametinib,1,0.168,0.865,1,19.422,80.578
+Manuscript Drafts with Results/Manuscript Final Version/Manuscript Prism Files/Fig.3 Chemo Treat Liver Bx Results/2. Manuscript Liver.Bx7 H&E score.prism,Data 1,,1581.5,"{'string': 'Folfirinox', 'version': 1, 'formatting': [{'range': '0~9', 'attributes': {'horizontalAlignment': 'left'}}]}",1,730.7,1342.425,4,54.431,45.569
+Manuscript Drafts with Results/Manuscript Final Version/Manuscript Prism Files/Fig.3 Chemo Treat Liver Bx Results/2. Manuscript Liver.Bx7 H&E score.prism,Data 1,,1581.5,"{'string': 'Folfirinox', 'version': 1, 'formatting': [{'range': '0~9', 'attributes': {'horizontalAlignment': 'left'}}]}",2,645.1,1342.425,4,48.055,51.945
+Manuscript Drafts with Results/Manuscript Final Version/Manuscript Prism Files/Fig.3 Chemo Treat Liver Bx Results/2. Manuscript Liver.Bx7 H&E score.prism,Data 1,,1581.5,"{'string': 'Folfirinox', 'version': 1, 'formatting': [{'range': '0~9', 'attributes': {'horizontalAlignment': 'left'}}]}",3,862.7,1342.425,4,64.264,35.736
+Manuscript Drafts with Results/Manuscript Final Version/Manuscript Prism Files/Fig.3 Chemo Treat Liver Bx Results/2. Manuscript Liver.Bx7 H&E score.prism,Data 1,,1581.5,"{'string': 'Folfirinox', 'version': 1, 'formatting': [{'range': '0~9', 'attributes': {'horizontalAlignment': 'left'}}]}",4,1290.7,1342.425,4,96.147,3.853
+Manuscript Drafts with Results/Manuscript Final Version/Manuscript Prism Files/Fig.3 Chemo Treat Liver Bx Results/2. Manuscript Liver.Bx7 H&E score.prism,Data 1,,1581.5,"{'string': 'Trametinib', 'version': 1, 'formatting': [{'range': '0~9', 'attributes': {'horizontalAlignment': 'left'}}]}",1,882.1,1342.425,4,65.709,34.291
+Manuscript Drafts with Results/Manuscript Final Version/Manuscript Prism Files/Fig.3 Chemo Treat Liver Bx Results/2. Manuscript Liver.Bx7 H&E score.prism,Data 1,,1581.5,"{'string': 'Trametinib', 'version': 1, 'formatting': [{'range': '0~9', 'attributes': {'horizontalAlignment': 'left'}}]}",2,905.7,1342.425,4,67.467,32.533
+Manuscript Drafts with Results/Manuscript Final Version/Manuscript Prism Files/Fig.3 Chemo Treat Liver Bx Results/2. Manuscript Liver.Bx7 H&E score.prism,Data 1,,1581.5,"{'string': 'Trametinib', 'version': 1, 'formatting': [{'range': '0~9', 'attributes': {'horizontalAlignment': 'left'}}]}",3,957.7,1342.425,4,71.341,28.659
+Manuscript Drafts with Results/Manuscript Final Version/Manuscript Prism Files/Fig.3 Chemo Treat Liver Bx Results/2. Manuscript Liver.Bx7 H&E score.prism,Data 1,,1581.5,"{'string': 'Trametinib', 'version': 1, 'formatting': [{'range': '0~9', 'attributes': {'horizontalAlignment': 'left'}}]}",4,1498.4,1342.425,4,111.619,-11.619
+Manuscript Drafts with Results/Manuscript Final Version/Manuscript Prism Files/Fig.3 Chemo Treat Liver Bx Results/2. Manuscript Liver.Bx7 H&E score.prism,Data 1,,1581.5,"{'string': 'Vemurafinib', 'version': 1, 'formatting': [{'range': '0~10', 'attributes': {'horizontalAlignment': 'left'}}]}",1,1815.1,1342.425,4,135.211,-35.211
+Manuscript Drafts with Results/Manuscript Final Version/Manuscript Prism Files/Fig.3 Chemo Treat Liver Bx Results/2. Manuscript Liver.Bx7 H&E score.prism,Data 1,,1581.5,"{'string': 'Vemurafinib', 'version': 1, 'formatting': [{'range': '0~10', 'attributes': {'horizontalAlignment': 'left'}}]}",2,1624.2,1342.425,4,120.99,-20.99
+Manuscript Drafts with Results/Manuscript Final Version/Manuscript Prism Files/Fig.3 Chemo Treat Liver Bx Results/2. Manuscript Liver.Bx7 H&E score.prism,Data 1,,1581.5,"{'string': 'Vemurafinib', 'version': 1, 'formatting': [{'range': '0~10', 'attributes': {'horizontalAlignment': 'left'}}]}",3,1484.6,1342.425,4,110.591,-10.591
+Manuscript Drafts with Results/Manuscript Final Version/Manuscript Prism Files/Fig.3 Chemo Treat Liver Bx Results/3. Manuscript Liver IHC CC3.prism,Data 1,,DMSO,"{'string': 'Folfirinox', 'version': 1, 'formatting': [{'range': '0~9', 'attributes': {'horizontalAlignment': 'left'}}]}",1,2.1,1.95,4,107.692,-7.692
+Manuscript Drafts with Results/Manuscript Final Version/Manuscript Prism Files/Fig.3 Chemo Treat Liver Bx Results/3. Manuscript Liver IHC CC3.prism,Data 1,,DMSO,"{'string': 'Folfirinox', 'version': 1, 'formatting': [{'range': '0~9', 'attributes': {'horizontalAlignment': 'left'}}]}",2,3.3,1.95,4,169.231,-69.231
+Manuscript Drafts with Results/Manuscript Final Version/Manuscript Prism Files/Fig.3 Chemo Treat Liver Bx Results/3. Manuscript Liver IHC CC3.prism,Data 1,,DMSO,"{'string': 'Folfirinox', 'version': 1, 'formatting': [{'range': '0~9', 'attributes': {'horizontalAlignment': 'left'}}]}",3,1.6,1.95,4,82.051,17.949
+Manuscript Drafts with Results/Manuscript Final Version/Manuscript Prism Files/Fig.3 Chemo Treat Liver Bx Results/3. Manuscript Liver IHC CC3.prism,Data 1,,DMSO,"{'string': 'Folfirinox', 'version': 1, 'formatting': [{'range': '0~9', 'attributes': {'horizontalAlignment': 'left'}}]}",4,1.6,1.95,4,82.051,17.949
+Manuscript Drafts with Results/Manuscript Final Version/Manuscript Prism Files/Fig.3 Chemo Treat Liver Bx Results/3. Manuscript Liver IHC CC3.prism,Data 1,,DMSO,"{'string': 'Trametinib', 'version': 1, 'formatting': [{'range': '0~9', 'attributes': {'horizontalAlignment': 'left'}}]}",1,7.0,1.95,4,358.974,-258.974
+Manuscript Drafts with Results/Manuscript Final Version/Manuscript Prism Files/Fig.3 Chemo Treat Liver Bx Results/3. Manuscript Liver IHC CC3.prism,Data 1,,DMSO,"{'string': 'Trametinib', 'version': 1, 'formatting': [{'range': '0~9', 'attributes': {'horizontalAlignment': 'left'}}]}",2,13.8,1.95,4,707.692,-607.692
+Manuscript Drafts with Results/Manuscript Final Version/Manuscript Prism Files/Fig.3 Chemo Treat Liver Bx Results/3. Manuscript Liver IHC CC3.prism,Data 1,,DMSO,"{'string': 'Trametinib', 'version': 1, 'formatting': [{'range': '0~9', 'attributes': {'horizontalAlignment': 'left'}}]}",3,9.0,1.95,4,461.538,-361.538
+Manuscript Drafts with Results/Manuscript Final Version/Manuscript Prism Files/Fig.3 Chemo Treat Liver Bx Results/3. Manuscript Liver IHC CC3.prism,Data 1,,DMSO,"{'string': 'Trametinib', 'version': 1, 'formatting': [{'range': '0~9', 'attributes': {'horizontalAlignment': 'left'}}]}",4,16.8,1.95,4,861.538,-761.538
+Manuscript Drafts with Results/Manuscript Final Version/Manuscript Prism Files/Fig.3 Chemo Treat Liver Bx Results/3. Manuscript Liver IHC CC3.prism,Data 1,,DMSO,"{'string': 'Vemurafinib', 'version': 1, 'formatting': [{'range': '0~10', 'attributes': {'horizontalAlignment': 'left'}}]}",1,0.7,1.95,4,35.897,64.103
+Manuscript Drafts with Results/Manuscript Final Version/Manuscript Prism Files/Fig.3 Chemo Treat Liver Bx Results/3. Manuscript Liver IHC CC3.prism,Data 1,,DMSO,"{'string': 'Vemurafinib', 'version': 1, 'formatting': [{'range': '0~10', 'attributes': {'horizontalAlignment': 'left'}}]}",2,0.6,1.95,4,30.769,69.231
+Manuscript Drafts with Results/Manuscript Final Version/Manuscript Prism Files/Fig.3 Chemo Treat Liver Bx Results/3. Manuscript Liver IHC CC3.prism,Data 1,,DMSO,"{'string': 'Vemurafinib', 'version': 1, 'formatting': [{'range': '0~10', 'attributes': {'horizontalAlignment': 'left'}}]}",3,1.0,1.95,4,51.282,48.718
+Manuscript Drafts with Results/Manuscript Final Version/Manuscript Prism Files/Fig.3 Chemo Treat Liver Bx Results/3. Manuscript Liver IHC CC3.prism,Data 1,,DMSO,"{'string': 'Vemurafinib', 'version': 1, 'formatting': [{'range': '0~10', 'attributes': {'horizontalAlignment': 'left'}}]}",4,0.2,1.95,4,10.256,89.744
+Manuscript Drafts with Results/Manuscript Final Version/Manuscript Prism Files/Fig.3 Chemo Treat Liver Bx Results/3. Manuscript Liver IHC CC3.prism,w/o vem,,DMSO,"{'string': 'Folfirinox', 'version': 1, 'formatting': [{'range': '0~9', 'attributes': {'horizontalAlignment': 'left'}}]}",1,2.1,1.95,4,107.692,-7.692
+Manuscript Drafts with Results/Manuscript Final Version/Manuscript Prism Files/Fig.3 Chemo Treat Liver Bx Results/3. Manuscript Liver IHC CC3.prism,w/o vem,,DMSO,"{'string': 'Folfirinox', 'version': 1, 'formatting': [{'range': '0~9', 'attributes': {'horizontalAlignment': 'left'}}]}",2,3.3,1.95,4,169.231,-69.231
+Manuscript Drafts with Results/Manuscript Final Version/Manuscript Prism Files/Fig.3 Chemo Treat Liver Bx Results/3. Manuscript Liver IHC CC3.prism,w/o vem,,DMSO,"{'string': 'Folfirinox', 'version': 1, 'formatting': [{'range': '0~9', 'attributes': {'horizontalAlignment': 'left'}}]}",3,1.6,1.95,4,82.051,17.949
+Manuscript Drafts with Results/Manuscript Final Version/Manuscript Prism Files/Fig.3 Chemo Treat Liver Bx Results/3. Manuscript Liver IHC CC3.prism,w/o vem,,DMSO,"{'string': 'Folfirinox', 'version': 1, 'formatting': [{'range': '0~9', 'attributes': {'horizontalAlignment': 'left'}}]}",4,1.6,1.95,4,82.051,17.949
+Manuscript Drafts with Results/Manuscript Final Version/Manuscript Prism Files/Fig.3 Chemo Treat Liver Bx Results/3. Manuscript Liver IHC CC3.prism,w/o vem,,DMSO,"{'string': 'Trametinib', 'version': 1, 'formatting': [{'range': '0~9', 'attributes': {'horizontalAlignment': 'left'}}]}",1,7.0,1.95,4,358.974,-258.974
+Manuscript Drafts with Results/Manuscript Final Version/Manuscript Prism Files/Fig.3 Chemo Treat Liver Bx Results/3. Manuscript Liver IHC CC3.prism,w/o vem,,DMSO,"{'string': 'Trametinib', 'version': 1, 'formatting': [{'range': '0~9', 'attributes': {'horizontalAlignment': 'left'}}]}",2,13.8,1.95,4,707.692,-607.692
+Manuscript Drafts with Results/Manuscript Final Version/Manuscript Prism Files/Fig.3 Chemo Treat Liver Bx Results/3. Manuscript Liver IHC CC3.prism,w/o vem,,DMSO,"{'string': 'Trametinib', 'version': 1, 'formatting': [{'range': '0~9', 'attributes': {'horizontalAlignment': 'left'}}]}",3,9.0,1.95,4,461.538,-361.538
+Manuscript Drafts with Results/Manuscript Final Version/Manuscript Prism Files/Fig.3 Chemo Treat Liver Bx Results/3. Manuscript Liver IHC CC3.prism,w/o vem,,DMSO,"{'string': 'Trametinib', 'version': 1, 'formatting': [{'range': '0~9', 'attributes': {'horizontalAlignment': 'left'}}]}",4,16.8,1.95,4,861.538,-761.538
+Manuscript Drafts with Results/Manuscript Final Version/Manuscript Prism Files/Fig.3 Chemo Treat Liver Bx Results/4. Manuscript Liver IHC Ki67.prism,Data 1,,36.6,"{'string': 'Folfirinox', 'version': 1, 'formatting': [{'range': '0~9', 'attributes': {'horizontalAlignment': 'left'}}]}",1,0.3,28.1,4,1.068,98.932
+Manuscript Drafts with Results/Manuscript Final Version/Manuscript Prism Files/Fig.3 Chemo Treat Liver Bx Results/4. Manuscript Liver IHC Ki67.prism,Data 1,,36.6,"{'string': 'Folfirinox', 'version': 1, 'formatting': [{'range': '0~9', 'attributes': {'horizontalAlignment': 'left'}}]}",2,0.7,28.1,4,2.491,97.509
+Manuscript Drafts with Results/Manuscript Final Version/Manuscript Prism Files/Fig.3 Chemo Treat Liver Bx Results/4. Manuscript Liver IHC Ki67.prism,Data 1,,36.6,"{'string': 'Folfirinox', 'version': 1, 'formatting': [{'range': '0~9', 'attributes': {'horizontalAlignment': 'left'}}]}",3,0.3,28.1,4,1.068,98.932
+Manuscript Drafts with Results/Manuscript Final Version/Manuscript Prism Files/Fig.3 Chemo Treat Liver Bx Results/4. Manuscript Liver IHC Ki67.prism,Data 1,,36.6,"{'string': 'Folfirinox', 'version': 1, 'formatting': [{'range': '0~9', 'attributes': {'horizontalAlignment': 'left'}}]}",4,15.1,28.1,4,53.737,46.263
+Manuscript Drafts with Results/Manuscript Final Version/Manuscript Prism Files/Fig.3 Chemo Treat Liver Bx Results/4. Manuscript Liver IHC Ki67.prism,Data 1,,36.6,"{'string': 'Trametinib', 'version': 1, 'formatting': [{'range': '0~9', 'attributes': {'horizontalAlignment': 'left'}}]}",1,3.8,28.1,4,13.523,86.477
+Manuscript Drafts with Results/Manuscript Final Version/Manuscript Prism Files/Fig.3 Chemo Treat Liver Bx Results/4. Manuscript Liver IHC Ki67.prism,Data 1,,36.6,"{'string': 'Trametinib', 'version': 1, 'formatting': [{'range': '0~9', 'attributes': {'horizontalAlignment': 'left'}}]}",2,3.0,28.1,4,10.676,89.324
+Manuscript Drafts with Results/Manuscript Final Version/Manuscript Prism Files/Fig.3 Chemo Treat Liver Bx Results/4. Manuscript Liver IHC Ki67.prism,Data 1,,36.6,"{'string': 'Trametinib', 'version': 1, 'formatting': [{'range': '0~9', 'attributes': {'horizontalAlignment': 'left'}}]}",3,4.9,28.1,4,17.438,82.562
+Manuscript Drafts with Results/Manuscript Final Version/Manuscript Prism Files/Fig.3 Chemo Treat Liver Bx Results/4. Manuscript Liver IHC Ki67.prism,Data 1,,36.6,"{'string': 'Trametinib', 'version': 1, 'formatting': [{'range': '0~9', 'attributes': {'horizontalAlignment': 'left'}}]}",4,20.5,28.1,4,72.954,27.046
+Manuscript Drafts with Results/Manuscript Final Version/Manuscript Prism Files/Fig.3 Chemo Treat Liver Bx Results/4. Manuscript Liver IHC Ki67.prism,Data 1,,36.6,"{'string': 'Vemurafinib', 'version': 1, 'formatting': [{'range': '0~10', 'attributes': {'horizontalAlignment': 'left'}}]}",1,10.0,28.1,4,35.587,64.413
+Manuscript Drafts with Results/Manuscript Final Version/Manuscript Prism Files/Fig.3 Chemo Treat Liver Bx Results/4. Manuscript Liver IHC Ki67.prism,Data 1,,36.6,"{'string': 'Vemurafinib', 'version': 1, 'formatting': [{'range': '0~10', 'attributes': {'horizontalAlignment': 'left'}}]}",2,7.5,28.1,4,26.69,73.31
+Manuscript Drafts with Results/Manuscript Final Version/Manuscript Prism Files/Fig.3 Chemo Treat Liver Bx Results/4. Manuscript Liver IHC Ki67.prism,Data 1,,36.6,"{'string': 'Vemurafinib', 'version': 1, 'formatting': [{'range': '0~10', 'attributes': {'horizontalAlignment': 'left'}}]}",3,11.8,28.1,4,41.993,58.007
+Manuscript Drafts with Results/Manuscript Final Version/Manuscript Prism Files/Fig.3 Chemo Treat Liver Bx Results/4. Manuscript Liver IHC Ki67.prism,w/o vem,,36.6,"{'string': 'Folfirinox', 'version': 1, 'formatting': [{'range': '0~9', 'attributes': {'horizontalAlignment': 'left'}}]}",1,0.3,28.1,4,1.068,98.932
+Manuscript Drafts with Results/Manuscript Final Version/Manuscript Prism Files/Fig.3 Chemo Treat Liver Bx Results/4. Manuscript Liver IHC Ki67.prism,w/o vem,,36.6,"{'string': 'Folfirinox', 'version': 1, 'formatting': [{'range': '0~9', 'attributes': {'horizontalAlignment': 'left'}}]}",2,0.7,28.1,4,2.491,97.509
+Manuscript Drafts with Results/Manuscript Final Version/Manuscript Prism Files/Fig.3 Chemo Treat Liver Bx Results/4. Manuscript Liver IHC Ki67.prism,w/o vem,,36.6,"{'string': 'Folfirinox', 'version': 1, 'formatting': [{'range': '0~9', 'attributes': {'horizontalAlignment': 'left'}}]}",3,0.3,28.1,4,1.068,98.932
+Manuscript Drafts with Results/Manuscript Final Version/Manuscript Prism Files/Fig.3 Chemo Treat Liver Bx Results/4. Manuscript Liver IHC Ki67.prism,w/o vem,,36.6,"{'string': 'Folfirinox', 'version': 1, 'formatting': [{'range': '0~9', 'attributes': {'horizontalAlignment': 'left'}}]}",4,15.1,28.1,4,53.737,46.263
+Manuscript Drafts with Results/Manuscript Final Version/Manuscript Prism Files/Fig.3 Chemo Treat Liver Bx Results/4. Manuscript Liver IHC Ki67.prism,w/o vem,,36.6,"{'string': 'Trametinib', 'version': 1, 'formatting': [{'range': '0~9', 'attributes': {'horizontalAlignment': 'left'}}]}",1,3.8,28.1,4,13.523,86.477
+Manuscript Drafts with Results/Manuscript Final Version/Manuscript Prism Files/Fig.3 Chemo Treat Liver Bx Results/4. Manuscript Liver IHC Ki67.prism,w/o vem,,36.6,"{'string': 'Trametinib', 'version': 1, 'formatting': [{'range': '0~9', 'attributes': {'horizontalAlignment': 'left'}}]}",2,3.0,28.1,4,10.676,89.324
+Manuscript Drafts with Results/Manuscript Final Version/Manuscript Prism Files/Fig.3 Chemo Treat Liver Bx Results/4. Manuscript Liver IHC Ki67.prism,w/o vem,,36.6,"{'string': 'Trametinib', 'version': 1, 'formatting': [{'range': '0~9', 'attributes': {'horizontalAlignment': 'left'}}]}",3,4.9,28.1,4,17.438,82.562
+Manuscript Drafts with Results/Manuscript Final Version/Manuscript Prism Files/Fig.3 Chemo Treat Liver Bx Results/5. Manuscript Liver IHC CD45.prism,Data 1,,15.7,"{'string': 'Folfirinox', 'version': 1, 'formatting': [{'range': '0~9', 'attributes': {'horizontalAlignment': 'left'}}]}",1,7.0,16.65,4,42.042,57.958
+Manuscript Drafts with Results/Manuscript Final Version/Manuscript Prism Files/Fig.3 Chemo Treat Liver Bx Results/5. Manuscript Liver IHC CD45.prism,Data 1,,15.7,"{'string': 'Folfirinox', 'version': 1, 'formatting': [{'range': '0~9', 'attributes': {'horizontalAlignment': 'left'}}]}",2,4.1,16.65,4,24.625,75.375
+Manuscript Drafts with Results/Manuscript Final Version/Manuscript Prism Files/Fig.3 Chemo Treat Liver Bx Results/5. Manuscript Liver IHC CD45.prism,Data 1,,15.7,"{'string': 'Folfirinox', 'version': 1, 'formatting': [{'range': '0~9', 'attributes': {'horizontalAlignment': 'left'}}]}",3,5.3,16.65,4,31.832,68.168
+Manuscript Drafts with Results/Manuscript Final Version/Manuscript Prism Files/Fig.3 Chemo Treat Liver Bx Results/5. Manuscript Liver IHC CD45.prism,Data 1,,15.7,"{'string': 'Folfirinox', 'version': 1, 'formatting': [{'range': '0~9', 'attributes': {'horizontalAlignment': 'left'}}]}",4,33.8,16.65,4,203.003,-103.003
+Manuscript Drafts with Results/Manuscript Final Version/Manuscript Prism Files/Fig.3 Chemo Treat Liver Bx Results/5. Manuscript Liver IHC CD45.prism,Data 1,,15.7,"{'string': 'Trametinib', 'version': 1, 'formatting': [{'range': '0~9', 'attributes': {'horizontalAlignment': 'left'}}]}",1,57.3,16.65,4,344.144,-244.144
+Manuscript Drafts with Results/Manuscript Final Version/Manuscript Prism Files/Fig.3 Chemo Treat Liver Bx Results/5. Manuscript Liver IHC CD45.prism,Data 1,,15.7,"{'string': 'Trametinib', 'version': 1, 'formatting': [{'range': '0~9', 'attributes': {'horizontalAlignment': 'left'}}]}",2,36.6,16.65,4,219.82,-119.82
+Manuscript Drafts with Results/Manuscript Final Version/Manuscript Prism Files/Fig.3 Chemo Treat Liver Bx Results/5. Manuscript Liver IHC CD45.prism,Data 1,,15.7,"{'string': 'Trametinib', 'version': 1, 'formatting': [{'range': '0~9', 'attributes': {'horizontalAlignment': 'left'}}]}",3,41.0,16.65,4,246.246,-146.246
+Manuscript Drafts with Results/Manuscript Final Version/Manuscript Prism Files/Fig.3 Chemo Treat Liver Bx Results/5. Manuscript Liver IHC CD45.prism,Data 1,,15.7,"{'string': 'Trametinib', 'version': 1, 'formatting': [{'range': '0~9', 'attributes': {'horizontalAlignment': 'left'}}]}",4,13.4,16.65,4,80.48,19.52
+Manuscript Drafts with Results/Manuscript Final Version/Manuscript Prism Files/Fig.3 Chemo Treat Liver Bx Results/5. Manuscript Liver IHC CD45.prism,Data 1,,15.7,"{'string': 'Vemurafinib', 'version': 1, 'formatting': [{'range': '0~10', 'attributes': {'horizontalAlignment': 'left'}}]}",1,25.9,16.65,4,155.556,-55.556
+Manuscript Drafts with Results/Manuscript Final Version/Manuscript Prism Files/Fig.3 Chemo Treat Liver Bx Results/5. Manuscript Liver IHC CD45.prism,Data 1,,15.7,"{'string': 'Vemurafinib', 'version': 1, 'formatting': [{'range': '0~10', 'attributes': {'horizontalAlignment': 'left'}}]}",2,24.3,16.65,4,145.946,-45.946
+Manuscript Drafts with Results/Manuscript Final Version/Manuscript Prism Files/Fig.3 Chemo Treat Liver Bx Results/5. Manuscript Liver IHC CD45.prism,Data 1,,15.7,"{'string': 'Vemurafinib', 'version': 1, 'formatting': [{'range': '0~10', 'attributes': {'horizontalAlignment': 'left'}}]}",3,16.9,16.65,4,101.502,-1.502
+Manuscript Drafts with Results/Manuscript Final Version/Manuscript Prism Files/Fig.3 Chemo Treat Liver Bx Results/6. Manuscript Liver IHC EpCAM.prism,Data 1,,74.2,"{'string': 'Folfirinox', 'version': 1, 'formatting': [{'range': '0~9', 'attributes': {'horizontalAlignment': 'left'}}]}",1,0.7,46.875,4,1.493,98.507
+Manuscript Drafts with Results/Manuscript Final Version/Manuscript Prism Files/Fig.3 Chemo Treat Liver Bx Results/6. Manuscript Liver IHC EpCAM.prism,Data 1,,74.2,"{'string': 'Folfirinox', 'version': 1, 'formatting': [{'range': '0~9', 'attributes': {'horizontalAlignment': 'left'}}]}",2,1.4,46.875,4,2.987,97.013
+Manuscript Drafts with Results/Manuscript Final Version/Manuscript Prism Files/Fig.3 Chemo Treat Liver Bx Results/6. Manuscript Liver IHC EpCAM.prism,Data 1,,74.2,"{'string': 'Folfirinox', 'version': 1, 'formatting': [{'range': '0~9', 'attributes': {'horizontalAlignment': 'left'}}]}",3,3.3,46.875,4,7.04,92.96
+Manuscript Drafts with Results/Manuscript Final Version/Manuscript Prism Files/Fig.3 Chemo Treat Liver Bx Results/6. Manuscript Liver IHC EpCAM.prism,Data 1,,74.2,"{'string': 'Folfirinox', 'version': 1, 'formatting': [{'range': '0~9', 'attributes': {'horizontalAlignment': 'left'}}]}",4,68.1,46.875,4,145.28,-45.28
+Manuscript Drafts with Results/Manuscript Final Version/Manuscript Prism Files/Fig.3 Chemo Treat Liver Bx Results/6. Manuscript Liver IHC EpCAM.prism,Data 1,,74.2,"{'string': 'Trametinib', 'version': 1, 'formatting': [{'range': '0~9', 'attributes': {'horizontalAlignment': 'left'}}]}",1,77.8,46.875,4,165.973,-65.973
+Manuscript Drafts with Results/Manuscript Final Version/Manuscript Prism Files/Fig.3 Chemo Treat Liver Bx Results/6. Manuscript Liver IHC EpCAM.prism,Data 1,,74.2,"{'string': 'Trametinib', 'version': 1, 'formatting': [{'range': '0~9', 'attributes': {'horizontalAlignment': 'left'}}]}",2,67.3,46.875,4,143.573,-43.573
+Manuscript Drafts with Results/Manuscript Final Version/Manuscript Prism Files/Fig.3 Chemo Treat Liver Bx Results/6. Manuscript Liver IHC EpCAM.prism,Data 1,,74.2,"{'string': 'Trametinib', 'version': 1, 'formatting': [{'range': '0~9', 'attributes': {'horizontalAlignment': 'left'}}]}",3,66.9,46.875,4,142.72,-42.72
+Manuscript Drafts with Results/Manuscript Final Version/Manuscript Prism Files/Fig.3 Chemo Treat Liver Bx Results/6. Manuscript Liver IHC EpCAM.prism,Data 1,,74.2,"{'string': 'Trametinib', 'version': 1, 'formatting': [{'range': '0~9', 'attributes': {'horizontalAlignment': 'left'}}]}",4,75.5,46.875,4,161.067,-61.067
+Manuscript Drafts with Results/Manuscript Final Version/Manuscript Prism Files/Fig.3 Chemo Treat Liver Bx Results/6. Manuscript Liver IHC EpCAM.prism,Data 1,,74.2,"{'string': 'Vemurafinib', 'version': 1, 'formatting': [{'range': '0~10', 'attributes': {'horizontalAlignment': 'left'}}]}",1,63.8,46.875,4,136.107,-36.107
+Manuscript Drafts with Results/Manuscript Final Version/Manuscript Prism Files/Fig.3 Chemo Treat Liver Bx Results/6. Manuscript Liver IHC EpCAM.prism,Data 1,,74.2,"{'string': 'Vemurafinib', 'version': 1, 'formatting': [{'range': '0~10', 'attributes': {'horizontalAlignment': 'left'}}]}",2,77.5,46.875,4,165.333,-65.333
+Manuscript Drafts with Results/Manuscript Final Version/Manuscript Prism Files/Fig.3 Chemo Treat Liver Bx Results/6. Manuscript Liver IHC EpCAM.prism,Data 1,,74.2,"{'string': 'Vemurafinib', 'version': 1, 'formatting': [{'range': '0~10', 'attributes': {'horizontalAlignment': 'left'}}]}",3,75.9,46.875,4,161.92,-61.92

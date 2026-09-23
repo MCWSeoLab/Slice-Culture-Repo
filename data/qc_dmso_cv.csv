@@ -1,0 +1,15 @@
+file,sheet,timepoint,study_id,n_control_wells,mean,std,dmso_cv,qc
+Figures for submission/MTS_Liver_10.prism,[DATE] bx,24h,PT-024,1,0.803,,,UNKNOWN (single control well)
+Figures for submission/MTS_Liver_10.prism,[DATE] bx,24h,PT-025,2,0.6565000000000001,0.0021213203435596836,0.0032312571874481087,PASS
+Figures for submission/MTS_Liver_10.prism,[DATE] bx,48h,PT-024,1,0.476,,,UNKNOWN (single control well)
+Figures for submission/MTS_Liver_10.prism,[DATE] bx,48h,PT-025,2,0.44599999999999995,0.052325901807804505,0.11732264979328366,PASS
+Figures for submission/MTS_Liver_bx_KRAS.prism,[DATE] bx - G12D,24h,PT-014,2,0.574,0.4772970773009196,0.8315280092350515,FAIL (CV > 20%)
+Figures for submission/MTS_Liver_bx_KRAS.prism,[DATE] bx - G12D,48h,PT-014,2,1.513,1.0960155108391485,0.7243988835685053,FAIL (CV > 20%)
+Figures for submission/MTS_Liver_bx_KRAS.prism,[DATE] bx - G12R,24h,PT-024,1,0.803,,,UNKNOWN (single control well)
+Figures for submission/MTS_Liver_bx_KRAS.prism,[DATE] bx - G12R,24h,PT-025,2,0.6565000000000001,0.0021213203435596836,0.0032312571874481087,PASS
+Figures for submission/MTS_Liver_bx_KRAS.prism,[DATE] bx - G12R,48h,PT-024,1,0.476,,,UNKNOWN (single control well)
+Figures for submission/MTS_Liver_bx_KRAS.prism,[DATE] bx - G12R,48h,PT-025,2,0.44599999999999995,0.052325901807804505,0.11732264979328366,PASS
+Figures for submission/MTS_Liver_bx_KRAS.prism,[DATE] bx - G12V,24h,PT-012,2,0.22249999999999998,0.024041630560342607,0.10805227218131509,PASS
+Manuscript Drafts with Results/Manuscript Final Version/Manuscript Prism Files/Fig.3 Chemo Treat Liver Bx Results/1. Liver Biopsy 6 MTS assay.prism,48h w/o vem,48hrs,,1,0.865,,,UNKNOWN (single control well)
+Manuscript Drafts with Results/Manuscript Final Version/Manuscript Prism Files/Fig.3 Chemo Treat Liver Bx Results/1. Liver Biopsy 6 MTS assay.prism,Data 2,24hrs,,1,1.115,,,UNKNOWN (single control well)
+Manuscript Drafts with Results/Manuscript Final Version/Manuscript Prism Files/Fig.3 Chemo Treat Liver Bx Results/1. Liver Biopsy 6 MTS assay.prism,Data 2,48hrs,,1,0.865,,,UNKNOWN (single control well)

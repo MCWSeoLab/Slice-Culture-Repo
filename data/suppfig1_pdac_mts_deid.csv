@@ -1,0 +1,9 @@
+biopsy,endpoint,group,replicate,value
+Primary PDAC Bx 2,MTS absorbance 490 nm,Day 1,1,0.0612
+Primary PDAC Bx 2,MTS absorbance 490 nm,Day 1,2,0.3137
+Primary PDAC Bx 2,MTS absorbance 490 nm,Day 3,1,0.659
+Primary PDAC Bx 2,MTS absorbance 490 nm,Day 3,2,0.387
+Primary PDAC Bx 2,MTS absorbance 490 nm,Day 5,1,0.722
+Primary PDAC Bx 2,MTS absorbance 490 nm,Day 5,2,0.849
+Primary PDAC Bx 2,MTS absorbance 490 nm,Day 7,1,1.134
+Primary PDAC Bx 2,MTS absorbance 490 nm,Day 7,2,1.0

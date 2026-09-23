@@ -1,0 +1,11 @@
+biopsy,site,study_id,epcam_pct_mean,epcam_pct_sd,n_slices
+Liver Bx.6,Liver metastasis,PT-014,4.46,4.31,4
+Liver Bx.4,Liver metastasis,,5.05,3.66,4
+Liver Bx.5,Liver metastasis,PT-012,6.76,1.13,4
+PDAC 5,Primary pancreas,PT-011,6.85,3.84,8
+Liver Bx.3 IC50,Liver metastasis,,13.65,1.94,4
+Liver Bx. [DATE],Liver metastasis,PT-025,28.16,1.79,4
+Umbilicus,Peritoneal metastasis,PT-013,35.58,7.49,4
+PDAC 4,Primary pancreas,,35.97,6.03,4
+Liver Bx.7,Liver metastasis,PT-015,65.36,6.65,4
+Liver bx. [DATE],Liver metastasis,PT-024,67.15,4.96,4

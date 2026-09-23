@@ -1,0 +1,12 @@
+study_id,drug_c,sample_label,pct_of_control,flag,pct_of_control_px,nrep,source,regimen,phase,day,response,absday,recist_rank,class_match
+PT-013,GEM/NAB-PAC,Umbilicus  1,99.21465969,False,,,Masterlist,GemNab,pre,-269.0,PD,269.0,0,same agent
+PT-014,GEM/NAB-PAC,Liver 6 resection 2,93.15928618638468,False,93.15928618638468,2.0,Prism (raw),GemNab,post,62.0,PD,62.0,0,same agent
+PT-013,FOLFIRINOX,Umbilicus  1,89.46335079,False,,,Masterlist,mFOLFORINOX,pre,-339.0,SD,339.0,1,same agent
+PT-014,FOLFIRINOX,Liver 6 resection 2,115.79643093192334,False,115.79643093192334,2.0,Prism (raw),mFOLFIRINOX,post,-8.0,SD,8.0,1,same agent
+PT-015,MEK inhibitor,Liver 7,19.42196531791908,False,19.42196531791908,1.0,Prism (raw),Cobimetinib,post,1.0,SD,1.0,1,class-level (trametinib ex vivo / cobimetinib clinical)
+PT-025,GEM/NAB-PAC,Liver 10,20.777279521674146,False,20.777279521674146,3.0,Prism (raw),GemNab,pre,-334.0,SD,334.0,1,same agent
+PT-011,FOLFIRINOX,PDAC 5,72.32,False,,,Masterlist,Folfirinox,pre,-170.0,PR,170.0,2,same agent
+PT-015,FOLFIRINOX,Liver 7,5.202312138728324,False,5.202312138728324,1.0,Prism (raw),Folfirinox,pre,-354.0,PR,354.0,2,same agent
+PT-023,GEM/NAB-PAC,Liver 8,130.1877708,True,,,Masterlist,GemNab,post,-140.0,PD,140.0,0,same agent
+PT-023,MEK inhibitor,Liver 8,51.03514685,True,,,Masterlist,Cobimetinib + Hydroxychloroquine,post,88.0,PD,88.0,0,class-level (trametinib ex vivo / cobimetinib clinical)
+PT-023,FOLFIRINOX,Liver 8,138.6615311,True,,,Masterlist,Folfirinox,pre,-1805.0,SD,1805.0,1,same agent

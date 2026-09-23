@@ -1,0 +1,20 @@
+n,sample,study_day,assay,details
+1,PDAC Bx 1,0,"Viability, 7 days",5-point MTS; IHC; H&E
+2,Liver Bx 1,1,"Viability, 3 days",3-point H&E; IHC
+3,Liver Bx 2,2,"Viability, 5 days",1-point MTS; 5-point H&E; IHC
+4,PDAC Bx 2,8,"Viability, 7 days; staurosporine IC50",5-point MTS; IHC; H&E; 6-point 3:1 dilution
+5,Liver Bx 3,9,"Staurosporine (positive control), 48/72 h, IC50","6-point 3:1 dilution, 10 µM top"
+6,PDAC Bx 3,19,FOLFIRINOX (24/48 h),Leucovorin 250/125 nM; 5-FU 125/62.5 nM; SN-38 125/62.5 nM; oxaliplatin 12.5/6.25 nM
+7,Liver Bx 4,21,FOLFIRINOX,Leucovorin 1000 nM; 5-FU 500 nM; SN-38 500 nM; oxaliplatin 50 nM
+8,PDAC Bx 4,21,FOLFIRINOX (24/48 h),Doses as Bx 3
+9,Peritoneum Bx 1,26,"Viability, 7 days",2-point MTS
+10,PDAC Bx 5,35,FOLFIRINOX; Gem/Nab-P; pan-RAS; staurosporine,RMC-7977 20 nM; staurosporine 5 µM
+11,Liver Bx 5,37,FOLFIRINOX; Gem/Nab-P; pan-RAS,+ Gem/Nab-P 500/100 nM; RMC-7977 20 nM
+12,Peritoneum Bx 2,54,FOLFIRINOX; Gem/Nab-P; pan-RAS; staurosporine,RMC-7977 20 nM; staurosporine 5 µM
+13,Liver Bx 6,63,FOLFIRINOX; trametinib; vemurafenib,FOLFIRINOX as above; trametinib 1000 nM; vemurafenib 1000 nM
+14,Liver Bx 7,64,FOLFIRINOX; trametinib; vemurafenib,FOLFIRINOX as above; Gem/Nab-P 500/100 nM; RMC-7977 50 nM
+15,PDAC Bx 6,75,FOLFIRINOX; trametinib; vemurafenib,Trametinib 2 µM; vemurafenib 2 µM
+16,PDAC Bx 7,96,FOLFIRINOX; trametinib; vemurafenib,Trametinib 2 µM; vemurafenib 2 µM
+17,Liver Bx 8,145,FOLFIRINOX; Gem/Nab-P; pan-RAS; MEK inhibitor (24/48 h),"MTS at 24 and 48 h; nuclear density; H&E. FOLFIRINOX leucovorin 1000 nM, 5-FU 500 nM, SN-38 500 nM, oxaliplatin 50 nM; Gem/Nab-P 500/100 nM; RMC-7977 20 nM; MEK inhibitor concentration [TO CONFIRM], not recorded on the assay sheet. Tissue exhausted; excluded from the concordance statistics."
+18,Liver Bx 9,222,FOLFIRINOX; Gem/Nab-P; trametinib; pan-RAS (24/48 h),"MTS at 24 and 48 h; IHC (CC3, Ki-67, CD45, EpCAM); nuclear density. FOLFIRINOX leucovorin 2000 nM, 5-FU 1000 nM, SN-38 1000 nM, oxaliplatin 100 nM; Gem/Nab-P 1.5 uM / 0.3 uM; RMC-7977 50 nM; trametinib 2 uM."
+19,Liver Bx 10,224,FOLFIRINOX; Gem/Nab-P; trametinib; pan-RAS (24/48 h),"MTS at 24 and 48 h, 3 replicates per condition; IHC (CC3, Ki-67, CD45, EpCAM); nuclear density. Doses as Liver Bx 9."

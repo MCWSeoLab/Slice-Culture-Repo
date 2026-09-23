@@ -1,0 +1,14 @@
+# Versions this analysis was last run and verified with (Python 3.10.12).
+# Pinned so a rerun reproduces the reported numbers exactly.
+numpy==2.2.6
+pandas==2.3.3
+scipy==1.15.3
+statsmodels==0.15.0
+matplotlib==3.10.9
+pillow==12.3.0
+
+# Needed only by the restricted stages:
+#   openpyxl  reads the source workbooks (code/restricted/deidentify.py and others)
+#   pikepdf   assembles the Figure 4 page (code/restricted/build_fig4_v6.py), with qpdf
+openpyxl==3.1.5
+pikepdf==10.13.0.post1

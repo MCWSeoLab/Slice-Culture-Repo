@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: >-
+  Analysis code and de-identified data for organotypic slice culture of
+  pancreatic cancer core biopsies
+message: If you use this software or data, please cite the associated article.
+type: software
+authors:
+  - family-names: Gaur
+    given-names: Kshitij
+    affiliation: Medical College of Wisconsin
+license: MIT

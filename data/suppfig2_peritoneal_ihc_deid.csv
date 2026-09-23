@@ -1,0 +1,81 @@
+biopsy,endpoint,marker,group,replicate,value
+Peritoneum Bx 1,Positive cells (% of total),Cleaved caspase-3,DMSO,1,2.8
+Peritoneum Bx 1,Positive cells (% of total),Cleaved caspase-3,DMSO,2,7.7
+Peritoneum Bx 1,Positive cells (% of total),Cleaved caspase-3,DMSO,3,3.4
+Peritoneum Bx 1,Positive cells (% of total),Cleaved caspase-3,DMSO,4,4.3
+Peritoneum Bx 1,Positive cells (% of total),Cleaved caspase-3,FOLFIRINOX,1,7.3
+Peritoneum Bx 1,Positive cells (% of total),Cleaved caspase-3,FOLFIRINOX,2,6.3
+Peritoneum Bx 1,Positive cells (% of total),Cleaved caspase-3,FOLFIRINOX,3,4.6
+Peritoneum Bx 1,Positive cells (% of total),Cleaved caspase-3,FOLFIRINOX,4,3.7
+Peritoneum Bx 1,Positive cells (% of total),Cleaved caspase-3,Gem/nab-Pac,1,5.1
+Peritoneum Bx 1,Positive cells (% of total),Cleaved caspase-3,Gem/nab-Pac,2,3.5
+Peritoneum Bx 1,Positive cells (% of total),Cleaved caspase-3,Gem/nab-Pac,3,4.8
+Peritoneum Bx 1,Positive cells (% of total),Cleaved caspase-3,Gem/nab-Pac,4,3.2
+Peritoneum Bx 1,Positive cells (% of total),Cleaved caspase-3,RMC-7977,1,7.4
+Peritoneum Bx 1,Positive cells (% of total),Cleaved caspase-3,RMC-7977,2,8.5
+Peritoneum Bx 1,Positive cells (% of total),Cleaved caspase-3,RMC-7977,3,6.7
+Peritoneum Bx 1,Positive cells (% of total),Cleaved caspase-3,RMC-7977,4,7.2
+Peritoneum Bx 1,Positive cells (% of total),Cleaved caspase-3,Staurosporine,1,6.2
+Peritoneum Bx 1,Positive cells (% of total),Cleaved caspase-3,Staurosporine,2,3.5
+Peritoneum Bx 1,Positive cells (% of total),Cleaved caspase-3,Staurosporine,3,8.5
+Peritoneum Bx 1,Positive cells (% of total),Cleaved caspase-3,Staurosporine,4,5.8
+Peritoneum Bx 1,Positive cells (% of total),Ki-67,DMSO,1,29.4
+Peritoneum Bx 1,Positive cells (% of total),Ki-67,DMSO,2,17.5
+Peritoneum Bx 1,Positive cells (% of total),Ki-67,DMSO,3,19.4
+Peritoneum Bx 1,Positive cells (% of total),Ki-67,DMSO,4,14.9
+Peritoneum Bx 1,Positive cells (% of total),Ki-67,FOLFIRINOX,1,21.1
+Peritoneum Bx 1,Positive cells (% of total),Ki-67,FOLFIRINOX,2,12.6
+Peritoneum Bx 1,Positive cells (% of total),Ki-67,FOLFIRINOX,3,7.8
+Peritoneum Bx 1,Positive cells (% of total),Ki-67,FOLFIRINOX,4,11.6
+Peritoneum Bx 1,Positive cells (% of total),Ki-67,Gem/nab-Pac,1,13.4
+Peritoneum Bx 1,Positive cells (% of total),Ki-67,Gem/nab-Pac,2,10.5
+Peritoneum Bx 1,Positive cells (% of total),Ki-67,Gem/nab-Pac,3,17.3
+Peritoneum Bx 1,Positive cells (% of total),Ki-67,Gem/nab-Pac,4,12.2
+Peritoneum Bx 1,Positive cells (% of total),Ki-67,RMC-7977,1,31.4
+Peritoneum Bx 1,Positive cells (% of total),Ki-67,RMC-7977,2,9.5
+Peritoneum Bx 1,Positive cells (% of total),Ki-67,RMC-7977,3,17.9
+Peritoneum Bx 1,Positive cells (% of total),Ki-67,RMC-7977,4,14.8
+Peritoneum Bx 1,Positive cells (% of total),Ki-67,Staurosporine,1,0.4
+Peritoneum Bx 1,Positive cells (% of total),Ki-67,Staurosporine,2,5.3
+Peritoneum Bx 1,Positive cells (% of total),Ki-67,Staurosporine,3,19.6
+Peritoneum Bx 1,Positive cells (% of total),Ki-67,Staurosporine,4,6.8
+Peritoneum Bx 1,Positive cells (% of total),CD45,DMSO,1,22.9
+Peritoneum Bx 1,Positive cells (% of total),CD45,DMSO,2,28.5
+Peritoneum Bx 1,Positive cells (% of total),CD45,DMSO,3,28.6
+Peritoneum Bx 1,Positive cells (% of total),CD45,DMSO,4,28.4
+Peritoneum Bx 1,Positive cells (% of total),CD45,FOLFIRINOX,1,36.5
+Peritoneum Bx 1,Positive cells (% of total),CD45,FOLFIRINOX,2,19.3
+Peritoneum Bx 1,Positive cells (% of total),CD45,FOLFIRINOX,3,20.2
+Peritoneum Bx 1,Positive cells (% of total),CD45,FOLFIRINOX,4,27.0
+Peritoneum Bx 1,Positive cells (% of total),CD45,Gem/nab-Pac,1,19.1
+Peritoneum Bx 1,Positive cells (% of total),CD45,Gem/nab-Pac,2,12.5
+Peritoneum Bx 1,Positive cells (% of total),CD45,Gem/nab-Pac,3,24.9
+Peritoneum Bx 1,Positive cells (% of total),CD45,Gem/nab-Pac,4,19.2
+Peritoneum Bx 1,Positive cells (% of total),CD45,RMC-7977,1,14.6
+Peritoneum Bx 1,Positive cells (% of total),CD45,RMC-7977,2,17.1
+Peritoneum Bx 1,Positive cells (% of total),CD45,RMC-7977,3,22.8
+Peritoneum Bx 1,Positive cells (% of total),CD45,RMC-7977,4,22.3
+Peritoneum Bx 1,Positive cells (% of total),CD45,Staurosporine,1,23.4
+Peritoneum Bx 1,Positive cells (% of total),CD45,Staurosporine,2,19.4
+Peritoneum Bx 1,Positive cells (% of total),CD45,Staurosporine,3,21.3
+Peritoneum Bx 1,Positive cells (% of total),CD45,Staurosporine,4,28.0
+Peritoneum Bx 1,Positive cells (% of total),EpCAM,DMSO,1,36.1
+Peritoneum Bx 1,Positive cells (% of total),EpCAM,DMSO,2,45.8
+Peritoneum Bx 1,Positive cells (% of total),EpCAM,DMSO,3,28.5
+Peritoneum Bx 1,Positive cells (% of total),EpCAM,DMSO,4,31.9
+Peritoneum Bx 1,Positive cells (% of total),EpCAM,FOLFIRINOX,1,27.1
+Peritoneum Bx 1,Positive cells (% of total),EpCAM,FOLFIRINOX,2,20.7
+Peritoneum Bx 1,Positive cells (% of total),EpCAM,FOLFIRINOX,3,21.0
+Peritoneum Bx 1,Positive cells (% of total),EpCAM,FOLFIRINOX,4,24.3
+Peritoneum Bx 1,Positive cells (% of total),EpCAM,Gem/nab-Pac,1,48.2
+Peritoneum Bx 1,Positive cells (% of total),EpCAM,Gem/nab-Pac,2,35.9
+Peritoneum Bx 1,Positive cells (% of total),EpCAM,Gem/nab-Pac,3,29.6
+Peritoneum Bx 1,Positive cells (% of total),EpCAM,Gem/nab-Pac,4,37.1
+Peritoneum Bx 1,Positive cells (% of total),EpCAM,RMC-7977,1,35.5
+Peritoneum Bx 1,Positive cells (% of total),EpCAM,RMC-7977,2,26.9
+Peritoneum Bx 1,Positive cells (% of total),EpCAM,RMC-7977,3,33.1
+Peritoneum Bx 1,Positive cells (% of total),EpCAM,RMC-7977,4,23.0
+Peritoneum Bx 1,Positive cells (% of total),EpCAM,Staurosporine,1,25.6
+Peritoneum Bx 1,Positive cells (% of total),EpCAM,Staurosporine,2,33.0
+Peritoneum Bx 1,Positive cells (% of total),EpCAM,Staurosporine,3,35.5
+Peritoneum Bx 1,Positive cells (% of total),EpCAM,Staurosporine,4,36.6

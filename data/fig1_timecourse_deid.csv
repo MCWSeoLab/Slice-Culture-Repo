@@ -1,0 +1,28 @@
+panel,biopsy,day,value
+# Seven-day feasibility time course, transcribed from the project's own Prism files:
+#   surface : "Fig.2 Viability Liver Bx Results/1. L.Bx Surface measurement.prism"
+#   mts     : "Fig.2 Viability Liver Bx Results/2. L.Bx Viability.prism"
+# Three liver core biopsies, unequal follow-up. Column means reproduce Prism exactly
+# (surface 1636/2133/2139/2440/2066; mts 0.6307/0.5345/0.7305/0.6360).
+# UNITS FOR `surface` ARE UNCONFIRMED — the artwork labels them mm^2, which is
+# implausible for an 18G core slice. Confirm before submission.
+surface,Bx1,0,1539
+surface,Bx1,1,1854
+surface,Bx1,3,1820
+surface,Bx1,5,1984
+surface,Bx1,7,2066
+surface,Bx2,0,1865
+surface,Bx2,1,2242
+surface,Bx2,3,2339
+surface,Bx2,5,2896
+surface,Bx3,0,1505
+surface,Bx3,1,2303
+surface,Bx3,3,2259
+mts,Bx1,1,0.667
+mts,Bx1,3,0.618
+mts,Bx1,5,0.742
+mts,Bx1,7,0.636
+mts,Bx2,1,0.569
+mts,Bx2,3,0.451
+mts,Bx2,5,0.719
+mts,Bx3,1,0.656

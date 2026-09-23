@@ -1,0 +1,20 @@
+sample,group,age_years,sex,stage,grade,approach,prior_systemic
+Liver Bx 1,Liver,55,F,,,,
+Liver Bx 2,Liver,41,F,,,,
+Liver Bx 3,Liver,59,F,,,,
+Liver Bx 4,Liver,62,F,,,,
+Liver Bx 5,Liver,79,M,,,,
+Liver Bx 6,Liver,67,M,,,,
+Liver Bx 7,Liver,62,F,,,,
+Liver Bx 8,Liver,70,F,IV,Moderately differentiated,Image-guided needle core biopsy,Yes
+Liver Bx 9,Liver,56,F,IV,Poorly differentiated,Image-guided needle core biopsy,Yes
+Liver Bx 10,Liver,82,F,IV,Moderately differentiated,Image-guided needle core biopsy,Yes
+Peritoneum Bx 1,Peritoneum,62,M,,,,
+Peritoneum Bx 2,Peritoneum,63,F,,,,
+PDAC Bx 1,Primary PDAC,45,F,,,,
+PDAC Bx 2,Primary PDAC,77,F,,,,
+PDAC Bx 3,Primary PDAC,64,M,,,,
+PDAC Bx 4,Primary PDAC,81,F,,,,
+PDAC Bx 5,Primary PDAC,72,F,,,,
+PDAC Bx 6,Primary PDAC,70,F,,,,
+PDAC Bx 7,Primary PDAC,49,M,,,,

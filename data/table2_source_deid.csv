@@ -1,0 +1,20 @@
+sample,study_day,age_years,sex,histologic_type,genomic,met_site
+Liver Bx 1,1,55,F,"PDAC, head of pancreas","KRAS G12D, TP53, CDKN2A/2B, UGT1A1",Liver
+Liver Bx 2,2,41,F,"Metastatic PDAC, oligometastatic","KRAS G12V, TP53, BRCA1",Liver
+Liver Bx 3,9,59,F,"Metastatic PDAC, oligometastatic","KRAS G12D, TP53",Liver
+Liver Bx 4,21,62,F,"PDAC, head of pancreas","KRAS Q61H, TP53, SMAD4, CDKN2A/2B",Liver
+Liver Bx 5,37,79,M,Metastatic PDAC,"KRAS G12V, TP53, MAP2K1, CDKN2A, LZTR1",Other sites
+Liver Bx 6,63,67,M,Metastatic PDAC with squamous features,"KRAS G12D, TP53, NOTCH1, JAK3",Liver
+Liver Bx 7,64,62,F,"Metastatic PDAC, oligometastatic","KRAS wild-type; BRAF, GNAS, LATS1",Liver (3 lesions)
+Liver Bx 8,145,70,F,Metastatic PDAC,"KRAS G12R, TP53, SMAD4",Liver
+Liver Bx 9,222,56,F,Poorly differentiated adenocarcinoma with pancreatobiliary features,"KRAS G12D, SMAD3, TP53",Liver
+Liver Bx 10,224,82,F,Metastatic PDAC,"KRAS G12R, SMAD4, TP53, CDKN2A",Liver
+Peritoneum Bx 1,26,62,M,Metastatic PDAC,"TP53, TGFBR1",Peritoneum
+Peritoneum Bx 2,54,63,F,Metastatic PDAC,KRAS G12D,Peritoneum
+PDAC Bx 1,0,45,F,PDAC (3.0 cm),KRAS wild-type,None
+PDAC Bx 2,8,77,F,PDAC,"KRAS G12V, TP53",None
+PDAC Bx 3,19,64,M,PDAC,"KRAS G12V, TP53, CDKN2A/B",None
+PDAC Bx 4,21,81,F,PDAC,KRAS G12V,None
+PDAC Bx 5,35,72,F,"PDAC, head of pancreas","KRAS G12D, TP53, GNAS",None
+PDAC Bx 6,75,70,F,PDAC,KRAS G12D,None
+PDAC Bx 7,96,49,M,PDAC,"NRAS G12D, TP53, CTNNB1",None
